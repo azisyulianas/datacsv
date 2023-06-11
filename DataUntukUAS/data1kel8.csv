@@ -1,0 +1,1001 @@
+Id,parental level of education,lunch,test preparation course
+19630001,bachelor's degree,standard,none
+19630002,some college,standard,completed
+19630003,master's degree,standard,none
+19630004,associate's degree,free/reduced,none
+19630005,some college,standard,none
+19630006,associate's degree,standard,none
+19630007,some college,standard,completed
+19630008,some college,free/reduced,none
+19630009,high school,free/reduced,completed
+19630010,high school,free/reduced,none
+19630011,associate's degree,standard,none
+19630012,associate's degree,standard,none
+19630013,high school,standard,none
+19630014,some college,standard,completed
+19630015,master's degree,standard,none
+19630016,some high school,standard,none
+19630017,high school,standard,none
+19630018,some high school,free/reduced,none
+19630019,master's degree,free/reduced,completed
+19630020,associate's degree,free/reduced,none
+19630021,high school,standard,none
+19630022,some college,free/reduced,completed
+19630023,some college,standard,none
+19630024,some high school,standard,none
+19630025,bachelor's degree,free/reduced,completed
+19630026,master's degree,free/reduced,none
+19630027,some college,standard,none
+19630028,bachelor's degree,standard,none
+19630029,high school,standard,none
+19630030,master's degree,standard,none
+19630031,some college,standard,none
+19630032,some college,standard,none
+19630033,master's degree,free/reduced,none
+19630034,some college,standard,none
+19630035,some college,standard,none
+19630036,associate's degree,standard,completed
+19630037,associate's degree,standard,none
+19630038,some high school,free/reduced,none
+19630039,associate's degree,free/reduced,completed
+19630040,associate's degree,free/reduced,none
+19630041,associate's degree,free/reduced,none
+19630042,associate's degree,standard,none
+19630043,associate's degree,standard,none
+19630044,some college,free/reduced,completed
+19630045,associate's degree,free/reduced,none
+19630046,associate's degree,standard,none
+19630047,associate's degree,standard,completed
+19630048,high school,standard,none
+19630049,associate's degree,free/reduced,completed
+19630050,high school,standard,completed
+19630051,some college,standard,none
+19630052,associate's degree,free/reduced,completed
+19630053,some college,standard,none
+19630054,high school,standard,none
+19630055,some high school,free/reduced,completed
+19630056,high school,free/reduced,none
+19630057,associate's degree,standard,completed
+19630058,associate's degree,standard,none
+19630059,some college,standard,completed
+19630060,some high school,free/reduced,none
+19630061,bachelor's degree,free/reduced,completed
+19630062,some high school,free/reduced,none
+19630063,associate's degree,free/reduced,none
+19630064,associate's degree,standard,none
+19630065,some high school,standard,none
+19630066,some high school,standard,none
+19630067,some high school,free/reduced,none
+19630068,some college,standard,none
+19630069,associate's degree,free/reduced,none
+19630070,associate's degree,standard,none
+19630071,some college,free/reduced,completed
+19630072,some college,standard,completed
+19630073,associate's degree,free/reduced,none
+19630074,some high school,free/reduced,none
+19630075,some high school,standard,none
+19630076,associate's degree,free/reduced,none
+19630077,some high school,standard,none
+19630078,bachelor's degree,standard,completed
+19630079,some high school,standard,completed
+19630080,master's degree,standard,none
+19630081,associate's degree,standard,none
+19630082,high school,free/reduced,none
+19630083,some college,free/reduced,completed
+19630084,associate's degree,standard,none
+19630085,high school,free/reduced,none
+19630086,some college,standard,none
+19630087,some college,free/reduced,none
+19630088,associate's degree,standard,none
+19630089,some college,standard,none
+19630090,some high school,standard,none
+19630091,bachelor's degree,standard,none
+19630092,high school,free/reduced,none
+19630093,high school,standard,none
+19630094,associate's degree,free/reduced,completed
+19630095,some college,standard,none
+19630096,associate's degree,free/reduced,completed
+19630097,some high school,standard,completed
+19630098,some college,standard,completed
+19630099,some college,free/reduced,none
+19630100,bachelor's degree,standard,none
+19630101,some college,standard,none
+19630102,bachelor's degree,standard,completed
+19630103,associate's degree,standard,none
+19630104,high school,standard,completed
+19630105,some college,standard,completed
+19630106,some college,standard,none
+19630107,master's degree,standard,none
+19630108,associate's degree,standard,completed
+19630109,associate's degree,free/reduced,none
+19630110,some high school,standard,none
+19630111,associate's degree,free/reduced,completed
+19630112,high school,standard,none
+19630113,associate's degree,standard,none
+19630114,some college,standard,none
+19630115,bachelor's degree,standard,completed
+19630116,high school,standard,none
+19630117,bachelor's degree,free/reduced,none
+19630118,bachelor's degree,standard,none
+19630119,some high school,standard,none
+19630120,some college,standard,none
+19630121,bachelor's degree,standard,completed
+19630122,associate's degree,standard,completed
+19630123,some college,standard,completed
+19630124,high school,free/reduced,none
+19630125,some college,standard,none
+19630126,high school,standard,none
+19630127,some high school,standard,none
+19630128,some college,standard,completed
+19630129,master's degree,standard,none
+19630130,bachelor's degree,standard,none
+19630131,master's degree,standard,none
+19630132,some high school,free/reduced,completed
+19630133,some college,free/reduced,completed
+19630134,some college,standard,completed
+19630135,bachelor's degree,free/reduced,completed
+19630136,bachelor's degree,standard,none
+19630137,some high school,standard,completed
+19630138,high school,standard,none
+19630139,associate's degree,standard,none
+19630140,some college,standard,completed
+19630141,some high school,standard,none
+19630142,some college,free/reduced,none
+19630143,some college,free/reduced,completed
+19630144,high school,standard,none
+19630145,some college,standard,none
+19630146,some college,free/reduced,none
+19630147,some high school,standard,none
+19630148,associate's degree,free/reduced,none
+19630149,bachelor's degree,standard,completed
+19630150,associate's degree,free/reduced,completed
+19630151,some high school,standard,completed
+19630152,bachelor's degree,standard,none
+19630153,associate's degree,standard,completed
+19630154,bachelor's degree,standard,none
+19630155,some high school,standard,none
+19630156,some college,standard,completed
+19630157,high school,free/reduced,completed
+19630158,some college,free/reduced,none
+19630159,associate's degree,standard,completed
+19630160,associate's degree,free/reduced,none
+19630161,associate's degree,free/reduced,completed
+19630162,some college,free/reduced,completed
+19630163,master's degree,free/reduced,none
+19630164,high school,standard,none
+19630165,master's degree,standard,none
+19630166,bachelor's degree,standard,completed
+19630167,high school,free/reduced,completed
+19630168,master's degree,free/reduced,completed
+19630169,high school,standard,completed
+19630170,some college,free/reduced,completed
+19630171,high school,standard,completed
+19630172,some high school,standard,none
+19630173,some college,standard,none
+19630174,associate's degree,standard,none
+19630175,bachelor's degree,free/reduced,completed
+19630176,master's degree,standard,completed
+19630177,high school,free/reduced,completed
+19630178,associate's degree,standard,completed
+19630179,master's degree,free/reduced,completed
+19630180,some high school,standard,completed
+19630181,master's degree,free/reduced,completed
+19630182,some college,free/reduced,none
+19630183,high school,standard,none
+19630184,associate's degree,standard,none
+19630185,some high school,free/reduced,completed
+19630186,associate's degree,free/reduced,completed
+19630187,high school,standard,none
+19630188,some high school,standard,completed
+19630189,some high school,free/reduced,none
+19630190,bachelor's degree,standard,none
+19630191,associate's degree,standard,none
+19630192,some college,standard,completed
+19630193,some high school,standard,none
+19630194,some college,standard,completed
+19630195,master's degree,standard,completed
+19630196,associate's degree,standard,none
+19630197,some high school,free/reduced,completed
+19630198,high school,free/reduced,none
+19630199,some college,free/reduced,none
+19630200,bachelor's degree,free/reduced,none
+19630201,associate's degree,standard,completed
+19630202,some college,free/reduced,none
+19630203,associate's degree,standard,none
+19630204,associate's degree,standard,none
+19630205,some college,standard,none
+19630206,some high school,standard,completed
+19630207,bachelor's degree,standard,none
+19630208,high school,standard,completed
+19630209,some college,free/reduced,none
+19630210,some college,free/reduced,none
+19630211,some high school,free/reduced,completed
+19630212,some college,free/reduced,none
+19630213,high school,free/reduced,none
+19630214,associate's degree,free/reduced,completed
+19630215,high school,standard,completed
+19630216,some high school,standard,completed
+19630217,associate's degree,free/reduced,completed
+19630218,high school,free/reduced,none
+19630219,high school,free/reduced,none
+19630220,some high school,standard,completed
+19630221,high school,standard,completed
+19630222,associate's degree,standard,none
+19630223,some high school,free/reduced,none
+19630224,some high school,standard,none
+19630225,associate's degree,standard,completed
+19630226,master's degree,free/reduced,none
+19630227,some college,standard,none
+19630228,high school,standard,none
+19630229,some high school,free/reduced,none
+19630230,some college,standard,completed
+19630231,some college,standard,none
+19630232,associate's degree,standard,none
+19630233,bachelor's degree,standard,none
+19630234,some high school,standard,none
+19630235,bachelor's degree,standard,completed
+19630236,associate's degree,standard,none
+19630237,bachelor's degree,free/reduced,none
+19630238,some high school,standard,completed
+19630239,some college,standard,none
+19630240,associate's degree,standard,none
+19630241,high school,free/reduced,completed
+19630242,bachelor's degree,standard,none
+19630243,high school,standard,none
+19630244,some college,standard,none
+19630245,some high school,standard,none
+19630246,associate's degree,standard,none
+19630247,associate's degree,standard,none
+19630248,high school,standard,completed
+19630249,high school,standard,none
+19630250,high school,standard,none
+19630251,some high school,standard,completed
+19630252,some college,free/reduced,none
+19630253,some high school,standard,completed
+19630254,master's degree,standard,none
+19630255,high school,standard,none
+19630256,some college,standard,none
+19630257,associate's degree,free/reduced,none
+19630258,associate's degree,standard,completed
+19630259,some college,standard,none
+19630260,master's degree,free/reduced,completed
+19630261,some high school,free/reduced,completed
+19630262,some college,standard,completed
+19630263,some high school,free/reduced,none
+19630264,high school,standard,none
+19630265,high school,standard,none
+19630266,some high school,free/reduced,none
+19630267,bachelor's degree,standard,none
+19630268,high school,standard,none
+19630269,associate's degree,standard,completed
+19630270,some college,free/reduced,none
+19630271,bachelor's degree,standard,none
+19630272,some college,standard,none
+19630273,associate's degree,free/reduced,none
+19630274,some college,standard,none
+19630275,some college,standard,completed
+19630276,bachelor's degree,standard,none
+19630277,some high school,standard,completed
+19630278,high school,standard,completed
+19630279,some high school,free/reduced,none
+19630280,bachelor's degree,free/reduced,none
+19630281,high school,standard,none
+19630282,high school,standard,none
+19630283,bachelor's degree,free/reduced,none
+19630284,some college,free/reduced,completed
+19630285,some high school,standard,none
+19630286,associate's degree,standard,completed
+19630287,associate's degree,standard,completed
+19630288,some high school,standard,none
+19630289,bachelor's degree,free/reduced,none
+19630290,some high school,standard,completed
+19630291,associate's degree,standard,none
+19630292,some high school,standard,none
+19630293,some high school,standard,completed
+19630294,bachelor's degree,standard,none
+19630295,high school,free/reduced,completed
+19630296,associate's degree,free/reduced,none
+19630297,some high school,standard,completed
+19630298,associate's degree,standard,completed
+19630299,high school,free/reduced,completed
+19630300,associate's degree,free/reduced,none
+19630301,some college,free/reduced,completed
+19630302,some high school,free/reduced,none
+19630303,associate's degree,standard,completed
+19630304,associate's degree,standard,none
+19630305,associate's degree,standard,completed
+19630306,some college,standard,none
+19630307,some college,standard,completed
+19630308,some high school,standard,none
+19630309,associate's degree,free/reduced,none
+19630310,high school,free/reduced,none
+19630311,associate's degree,standard,none
+19630312,bachelor's degree,standard,none
+19630313,bachelor's degree,standard,completed
+19630314,associate's degree,free/reduced,completed
+19630315,bachelor's degree,standard,completed
+19630316,high school,standard,none
+19630317,master's degree,standard,completed
+19630318,associate's degree,standard,none
+19630319,bachelor's degree,standard,none
+19630320,associate's degree,free/reduced,none
+19630321,high school,free/reduced,completed
+19630322,high school,standard,none
+19630323,some college,standard,none
+19630324,some high school,free/reduced,none
+19630325,high school,free/reduced,none
+19630326,some college,standard,none
+19630327,some college,standard,none
+19630328,some college,free/reduced,none
+19630329,associate's degree,standard,completed
+19630330,some high school,standard,none
+19630331,high school,standard,none
+19630332,associate's degree,standard,none
+19630333,associate's degree,standard,completed
+19630334,associate's degree,standard,none
+19630335,bachelor's degree,standard,none
+19630336,some college,free/reduced,none
+19630337,some high school,standard,completed
+19630338,associate's degree,standard,none
+19630339,some high school,free/reduced,none
+19630340,some high school,free/reduced,completed
+19630341,high school,free/reduced,none
+19630342,high school,standard,none
+19630343,high school,standard,completed
+19630344,associate's degree,standard,completed
+19630345,some college,standard,none
+19630346,high school,standard,none
+19630347,some college,standard,none
+19630348,bachelor's degree,standard,completed
+19630349,high school,free/reduced,none
+19630350,associate's degree,standard,none
+19630351,bachelor's degree,standard,none
+19630352,some college,standard,none
+19630353,some college,standard,completed
+19630354,associate's degree,standard,none
+19630355,some college,standard,none
+19630356,bachelor's degree,standard,none
+19630357,associate's degree,standard,none
+19630358,some college,free/reduced,completed
+19630359,some college,free/reduced,none
+19630360,some college,standard,none
+19630361,high school,standard,none
+19630362,some high school,standard,completed
+19630363,some college,standard,none
+19630364,some high school,free/reduced,none
+19630365,some college,standard,none
+19630366,bachelor's degree,free/reduced,completed
+19630367,high school,standard,completed
+19630368,bachelor's degree,free/reduced,none
+19630369,some high school,free/reduced,none
+19630370,some high school,standard,none
+19630371,some college,standard,none
+19630372,some college,free/reduced,completed
+19630373,some high school,standard,none
+19630374,some college,standard,completed
+19630375,bachelor's degree,standard,none
+19630376,associate's degree,free/reduced,none
+19630377,some high school,standard,none
+19630378,master's degree,free/reduced,completed
+19630379,some high school,standard,none
+19630380,bachelor's degree,standard,none
+19630381,associate's degree,standard,none
+19630382,associate's degree,standard,completed
+19630383,master's degree,free/reduced,none
+19630384,some high school,free/reduced,none
+19630385,some high school,free/reduced,none
+19630386,some college,standard,none
+19630387,bachelor's degree,standard,none
+19630388,associate's degree,free/reduced,none
+19630389,high school,standard,none
+19630390,master's degree,standard,none
+19630391,some high school,free/reduced,completed
+19630392,some college,standard,none
+19630393,some college,standard,none
+19630394,associate's degree,standard,completed
+19630395,some high school,standard,completed
+19630396,high school,free/reduced,none
+19630397,high school,free/reduced,none
+19630398,associate's degree,standard,none
+19630399,some high school,standard,none
+19630400,some high school,standard,none
+19630401,some high school,standard,completed
+19630402,some college,standard,none
+19630403,some college,free/reduced,none
+19630404,high school,standard,completed
+19630405,high school,standard,none
+19630406,some high school,standard,none
+19630407,associate's degree,standard,completed
+19630408,associate's degree,standard,none
+19630409,high school,free/reduced,completed
+19630410,associate's degree,standard,completed
+19630411,master's degree,standard,completed
+19630412,some college,standard,completed
+19630413,associate's degree,standard,none
+19630414,some high school,standard,completed
+19630415,bachelor's degree,free/reduced,completed
+19630416,high school,standard,none
+19630417,bachelor's degree,standard,completed
+19630418,associate's degree,standard,none
+19630419,some college,standard,none
+19630420,high school,free/reduced,completed
+19630421,associate's degree,free/reduced,completed
+19630422,high school,standard,completed
+19630423,master's degree,free/reduced,completed
+19630424,some high school,standard,completed
+19630425,some college,free/reduced,none
+19630426,some college,free/reduced,none
+19630427,bachelor's degree,standard,none
+19630428,some high school,free/reduced,none
+19630429,some high school,free/reduced,none
+19630430,some high school,free/reduced,none
+19630431,associate's degree,free/reduced,none
+19630432,high school,standard,none
+19630433,high school,standard,none
+19630434,some high school,free/reduced,none
+19630435,some high school,standard,none
+19630436,some college,free/reduced,completed
+19630437,associate's degree,standard,none
+19630438,associate's degree,free/reduced,none
+19630439,high school,standard,none
+19630440,some high school,standard,completed
+19630441,some college,standard,completed
+19630442,high school,standard,none
+19630443,some high school,free/reduced,none
+19630444,associate's degree,standard,none
+19630445,some high school,free/reduced,none
+19630446,some high school,standard,completed
+19630447,some college,free/reduced,none
+19630448,high school,standard,completed
+19630449,high school,standard,none
+19630450,associate's degree,standard,none
+19630451,some college,free/reduced,completed
+19630452,some college,standard,none
+19630453,associate's degree,free/reduced,none
+19630454,some college,free/reduced,none
+19630455,associate's degree,free/reduced,none
+19630456,bachelor's degree,free/reduced,none
+19630457,bachelor's degree,standard,none
+19630458,associate's degree,free/reduced,none
+19630459,bachelor's degree,standard,none
+19630460,high school,standard,completed
+19630461,bachelor's degree,free/reduced,none
+19630462,some college,free/reduced,none
+19630463,some college,standard,none
+19630464,some college,free/reduced,none
+19630465,bachelor's degree,standard,completed
+19630466,some college,standard,none
+19630467,associate's degree,free/reduced,none
+19630468,high school,free/reduced,completed
+19630469,high school,free/reduced,completed
+19630470,some college,standard,none
+19630471,associate's degree,standard,completed
+19630472,high school,standard,none
+19630473,associate's degree,standard,completed
+19630474,some high school,standard,none
+19630475,associate's degree,standard,completed
+19630476,bachelor's degree,standard,completed
+19630477,bachelor's degree,standard,completed
+19630478,associate's degree,standard,none
+19630479,master's degree,standard,none
+19630480,associate's degree,standard,none
+19630481,high school,standard,completed
+19630482,associate's degree,free/reduced,none
+19630483,some college,free/reduced,none
+19630484,high school,standard,none
+19630485,associate's degree,standard,none
+19630486,high school,standard,none
+19630487,some college,free/reduced,none
+19630488,associate's degree,free/reduced,none
+19630489,some high school,standard,completed
+19630490,associate's degree,free/reduced,completed
+19630491,associate's degree,free/reduced,none
+19630492,associate's degree,standard,none
+19630493,some college,standard,none
+19630494,bachelor's degree,standard,none
+19630495,high school,standard,none
+19630496,high school,standard,completed
+19630497,some college,standard,none
+19630498,some college,free/reduced,completed
+19630499,some high school,standard,none
+19630500,some college,standard,none
+19630501,master's degree,standard,none
+19630502,associate's degree,standard,completed
+19630503,some college,free/reduced,none
+19630504,associate's degree,standard,completed
+19630505,master's degree,free/reduced,none
+19630506,some high school,standard,none
+19630507,high school,standard,none
+19630508,bachelor's degree,free/reduced,none
+19630509,master's degree,standard,none
+19630510,bachelor's degree,standard,none
+19630511,some college,standard,none
+19630512,some high school,standard,none
+19630513,some high school,free/reduced,none
+19630514,some high school,standard,completed
+19630515,master's degree,free/reduced,completed
+19630516,some high school,standard,completed
+19630517,some college,standard,none
+19630518,some college,standard,completed
+19630519,some high school,standard,completed
+19630520,high school,free/reduced,completed
+19630521,some college,standard,none
+19630522,associate's degree,standard,none
+19630523,bachelor's degree,standard,none
+19630524,master's degree,free/reduced,none
+19630525,high school,standard,completed
+19630526,some college,standard,none
+19630527,some high school,free/reduced,completed
+19630528,high school,free/reduced,none
+19630529,bachelor's degree,free/reduced,none
+19630530,associate's degree,standard,none
+19630531,associate's degree,standard,completed
+19630532,some high school,standard,none
+19630533,associate's degree,standard,completed
+19630534,associate's degree,standard,completed
+19630535,high school,standard,completed
+19630536,bachelor's degree,free/reduced,completed
+19630537,associate's degree,standard,completed
+19630538,high school,standard,none
+19630539,bachelor's degree,standard,completed
+19630540,associate's degree,standard,completed
+19630541,high school,standard,completed
+19630542,associate's degree,free/reduced,completed
+19630543,associate's degree,standard,none
+19630544,associate's degree,standard,none
+19630545,master's degree,standard,none
+19630546,some high school,free/reduced,completed
+19630547,some high school,standard,completed
+19630548,high school,standard,completed
+19630549,high school,free/reduced,none
+19630550,master's degree,standard,none
+19630551,some high school,free/reduced,none
+19630552,bachelor's degree,free/reduced,completed
+19630553,associate's degree,standard,none
+19630554,some college,free/reduced,none
+19630555,associate's degree,standard,none
+19630556,some college,free/reduced,none
+19630557,associate's degree,standard,completed
+19630558,master's degree,free/reduced,none
+19630559,associate's degree,free/reduced,none
+19630560,some high school,standard,none
+19630561,some college,standard,completed
+19630562,some college,standard,none
+19630563,bachelor's degree,standard,completed
+19630564,some college,free/reduced,completed
+19630565,bachelor's degree,free/reduced,none
+19630566,associate's degree,standard,none
+19630567,bachelor's degree,free/reduced,completed
+19630568,master's degree,free/reduced,completed
+19630569,high school,free/reduced,none
+19630570,bachelor's degree,free/reduced,none
+19630571,some college,standard,completed
+19630572,bachelor's degree,standard,none
+19630573,some college,standard,none
+19630574,high school,free/reduced,completed
+19630575,high school,standard,none
+19630576,associate's degree,free/reduced,completed
+19630577,some college,standard,completed
+19630578,high school,standard,none
+19630579,some college,free/reduced,completed
+19630580,master's degree,standard,none
+19630581,some high school,standard,none
+19630582,some high school,standard,none
+19630583,bachelor's degree,free/reduced,none
+19630584,associate's degree,standard,completed
+19630585,some college,standard,none
+19630586,associate's degree,standard,none
+19630587,high school,standard,none
+19630588,bachelor's degree,free/reduced,none
+19630589,some college,standard,none
+19630590,some high school,standard,none
+19630591,some college,free/reduced,none
+19630592,some high school,standard,none
+19630593,bachelor's degree,standard,none
+19630594,high school,standard,none
+19630595,bachelor's degree,standard,completed
+19630596,bachelor's degree,standard,completed
+19630597,high school,free/reduced,none
+19630598,some high school,standard,none
+19630599,high school,standard,none
+19630600,some high school,standard,none
+19630601,master's degree,standard,none
+19630602,high school,standard,none
+19630603,some college,standard,none
+19630604,high school,free/reduced,none
+19630605,master's degree,free/reduced,completed
+19630606,some high school,standard,none
+19630607,associate's degree,standard,none
+19630608,master's degree,free/reduced,none
+19630609,some college,standard,none
+19630610,associate's degree,standard,none
+19630611,some college,free/reduced,completed
+19630612,some college,standard,none
+19630613,bachelor's degree,standard,completed
+19630614,associate's degree,standard,none
+19630615,associate's degree,standard,none
+19630616,high school,standard,none
+19630617,bachelor's degree,standard,none
+19630618,bachelor's degree,standard,none
+19630619,master's degree,standard,none
+19630620,associate's degree,free/reduced,completed
+19630621,high school,free/reduced,none
+19630622,bachelor's degree,free/reduced,none
+19630623,high school,free/reduced,completed
+19630624,some college,standard,completed
+19630625,bachelor's degree,free/reduced,none
+19630626,some college,standard,completed
+19630627,associate's degree,free/reduced,completed
+19630628,associate's degree,standard,none
+19630629,some college,free/reduced,none
+19630630,some high school,standard,completed
+19630631,some college,standard,none
+19630632,high school,standard,none
+19630633,bachelor's degree,standard,completed
+19630634,high school,standard,none
+19630635,some high school,standard,none
+19630636,high school,standard,none
+19630637,high school,free/reduced,completed
+19630638,some high school,standard,completed
+19630639,some college,standard,none
+19630640,associate's degree,standard,none
+19630641,high school,standard,none
+19630642,associate's degree,free/reduced,completed
+19630643,some high school,free/reduced,none
+19630644,high school,standard,completed
+19630645,high school,standard,none
+19630646,bachelor's degree,standard,completed
+19630647,associate's degree,standard,none
+19630648,high school,free/reduced,none
+19630649,high school,standard,none
+19630650,some college,standard,completed
+19630651,some high school,free/reduced,completed
+19630652,high school,standard,completed
+19630653,some college,standard,completed
+19630654,associate's degree,standard,completed
+19630655,some high school,standard,none
+19630656,some college,standard,none
+19630657,associate's degree,free/reduced,none
+19630658,some high school,standard,none
+19630659,associate's degree,free/reduced,none
+19630660,associate's degree,standard,none
+19630661,some college,free/reduced,none
+19630662,some high school,standard,none
+19630663,some college,free/reduced,none
+19630664,high school,standard,none
+19630665,associate's degree,standard,none
+19630666,some high school,free/reduced,completed
+19630667,some college,free/reduced,completed
+19630668,bachelor's degree,free/reduced,none
+19630669,some college,standard,none
+19630670,associate's degree,standard,completed
+19630671,high school,free/reduced,none
+19630672,associate's degree,free/reduced,none
+19630673,some college,standard,none
+19630674,associate's degree,standard,completed
+19630675,high school,standard,completed
+19630676,some college,standard,completed
+19630677,some college,standard,completed
+19630678,some high school,standard,completed
+19630679,associate's degree,free/reduced,none
+19630680,some college,free/reduced,none
+19630681,high school,standard,none
+19630682,high school,standard,none
+19630683,high school,standard,none
+19630684,some high school,free/reduced,completed
+19630685,some college,standard,completed
+19630686,master's degree,standard,completed
+19630687,some college,standard,completed
+19630688,associate's degree,free/reduced,none
+19630689,high school,free/reduced,none
+19630690,some college,free/reduced,none
+19630691,associate's degree,standard,none
+19630692,associate's degree,free/reduced,none
+19630693,bachelor's degree,free/reduced,completed
+19630694,associate's degree,standard,none
+19630695,some high school,standard,none
+19630696,some college,free/reduced,none
+19630697,associate's degree,standard,completed
+19630698,bachelor's degree,standard,none
+19630699,associate's degree,standard,completed
+19630700,high school,free/reduced,none
+19630701,bachelor's degree,standard,completed
+19630702,some high school,standard,none
+19630703,bachelor's degree,standard,completed
+19630704,some college,standard,none
+19630705,some high school,free/reduced,completed
+19630706,bachelor's degree,free/reduced,none
+19630707,high school,standard,none
+19630708,some college,standard,none
+19630709,high school,standard,none
+19630710,associate's degree,free/reduced,completed
+19630711,some college,standard,completed
+19630712,some high school,standard,completed
+19630713,some college,standard,none
+19630714,master's degree,standard,none
+19630715,some high school,standard,completed
+19630716,associate's degree,free/reduced,completed
+19630717,associate's degree,standard,completed
+19630718,associate's degree,standard,completed
+19630719,high school,standard,none
+19630720,associate's degree,free/reduced,completed
+19630721,some college,free/reduced,none
+19630722,some high school,free/reduced,completed
+19630723,some high school,free/reduced,completed
+19630724,high school,standard,none
+19630725,some college,standard,none
+19630726,some college,standard,completed
+19630727,associate's degree,standard,completed
+19630728,some high school,standard,completed
+19630729,high school,free/reduced,none
+19630730,some college,standard,none
+19630731,associate's degree,free/reduced,completed
+19630732,some high school,free/reduced,none
+19630733,some college,standard,completed
+19630734,some high school,standard,none
+19630735,some college,free/reduced,none
+19630736,master's degree,standard,none
+19630737,associate's degree,standard,none
+19630738,some college,free/reduced,completed
+19630739,associate's degree,standard,none
+19630740,high school,free/reduced,none
+19630741,bachelor's degree,standard,none
+19630742,associate's degree,free/reduced,none
+19630743,high school,standard,none
+19630744,associate's degree,standard,completed
+19630745,some college,free/reduced,none
+19630746,associate's degree,standard,none
+19630747,high school,standard,none
+19630748,some college,standard,none
+19630749,bachelor's degree,free/reduced,none
+19630750,some college,standard,completed
+19630751,some high school,standard,completed
+19630752,some college,standard,none
+19630753,master's degree,free/reduced,completed
+19630754,some high school,standard,completed
+19630755,associate's degree,free/reduced,none
+19630756,associate's degree,standard,none
+19630757,some college,standard,none
+19630758,bachelor's degree,free/reduced,completed
+19630759,some college,free/reduced,completed
+19630760,some college,standard,completed
+19630761,high school,free/reduced,none
+19630762,some high school,standard,none
+19630763,some high school,standard,completed
+19630764,high school,standard,none
+19630765,some college,standard,none
+19630766,high school,standard,none
+19630767,high school,standard,completed
+19630768,high school,standard,completed
+19630769,some high school,standard,none
+19630770,some college,free/reduced,none
+19630771,high school,standard,none
+19630772,bachelor's degree,standard,none
+19630773,some high school,free/reduced,completed
+19630774,bachelor's degree,free/reduced,none
+19630775,some college,standard,none
+19630776,some high school,free/reduced,none
+19630777,high school,standard,none
+19630778,some college,free/reduced,none
+19630779,some college,standard,completed
+19630780,associate's degree,standard,completed
+19630781,associate's degree,free/reduced,none
+19630782,master's degree,standard,none
+19630783,high school,free/reduced,completed
+19630784,associate's degree,standard,completed
+19630785,bachelor's degree,standard,completed
+19630786,some high school,standard,completed
+19630787,some high school,free/reduced,none
+19630788,some college,standard,none
+19630789,associate's degree,free/reduced,none
+19630790,master's degree,free/reduced,none
+19630791,high school,standard,none
+19630792,some college,free/reduced,none
+19630793,high school,free/reduced,none
+19630794,some high school,standard,completed
+19630795,high school,standard,none
+19630796,associate's degree,free/reduced,completed
+19630797,high school,standard,none
+19630798,associate's degree,free/reduced,none
+19630799,some college,standard,none
+19630800,associate's degree,standard,none
+19630801,some high school,standard,completed
+19630802,some high school,standard,completed
+19630803,associate's degree,standard,none
+19630804,some college,standard,none
+19630805,some college,standard,none
+19630806,some college,free/reduced,none
+19630807,some college,free/reduced,none
+19630808,high school,free/reduced,none
+19630809,high school,standard,none
+19630810,bachelor's degree,standard,none
+19630811,some high school,standard,none
+19630812,high school,free/reduced,none
+19630813,master's degree,standard,completed
+19630814,some high school,standard,completed
+19630815,high school,standard,none
+19630816,some high school,standard,completed
+19630817,bachelor's degree,standard,none
+19630818,bachelor's degree,free/reduced,completed
+19630819,high school,free/reduced,none
+19630820,some high school,standard,none
+19630821,some high school,standard,completed
+19630822,bachelor's degree,free/reduced,none
+19630823,some college,free/reduced,completed
+19630824,high school,free/reduced,none
+19630825,some high school,free/reduced,none
+19630826,high school,standard,none
+19630827,associate's degree,free/reduced,completed
+19630828,some high school,standard,none
+19630829,some high school,free/reduced,completed
+19630830,some high school,standard,none
+19630831,some college,free/reduced,none
+19630832,bachelor's degree,free/reduced,completed
+19630833,bachelor's degree,standard,none
+19630834,high school,standard,completed
+19630835,some college,standard,none
+19630836,high school,standard,completed
+19630837,high school,standard,none
+19630838,high school,standard,completed
+19630839,associate's degree,free/reduced,completed
+19630840,associate's degree,standard,none
+19630841,high school,free/reduced,none
+19630842,some high school,standard,none
+19630843,high school,free/reduced,completed
+19630844,some college,free/reduced,completed
+19630845,some high school,free/reduced,completed
+19630846,master's degree,standard,none
+19630847,master's degree,standard,completed
+19630848,high school,standard,none
+19630849,high school,standard,none
+19630850,associate's degree,standard,none
+19630851,master's degree,standard,none
+19630852,high school,standard,none
+19630853,some college,standard,none
+19630854,some high school,standard,none
+19630855,some high school,standard,none
+19630856,bachelor's degree,standard,none
+19630857,some college,free/reduced,none
+19630858,bachelor's degree,standard,none
+19630859,high school,standard,completed
+19630860,associate's degree,free/reduced,none
+19630861,associate's degree,standard,none
+19630862,master's degree,free/reduced,none
+19630863,bachelor's degree,free/reduced,completed
+19630864,some college,standard,completed
+19630865,associate's degree,standard,none
+19630866,some college,standard,completed
+19630867,high school,free/reduced,none
+19630868,associate's degree,standard,none
+19630869,associate's degree,free/reduced,completed
+19630870,associate's degree,free/reduced,none
+19630871,high school,standard,none
+19630872,some college,standard,completed
+19630873,associate's degree,standard,completed
+19630874,associate's degree,free/reduced,none
+19630875,bachelor's degree,free/reduced,none
+19630876,some college,free/reduced,none
+19630877,some college,standard,none
+19630878,some high school,standard,none
+19630879,some high school,standard,none
+19630880,associate's degree,standard,none
+19630881,bachelor's degree,standard,completed
+19630882,bachelor's degree,standard,completed
+19630883,high school,free/reduced,none
+19630884,bachelor's degree,free/reduced,none
+19630885,associate's degree,standard,none
+19630886,associate's degree,standard,completed
+19630887,associate's degree,standard,completed
+19630888,high school,free/reduced,none
+19630889,some college,free/reduced,none
+19630890,high school,free/reduced,none
+19630891,some college,standard,completed
+19630892,associate's degree,standard,none
+19630893,master's degree,free/reduced,none
+19630894,some high school,standard,completed
+19630895,associate's degree,standard,none
+19630896,some high school,free/reduced,none
+19630897,high school,free/reduced,none
+19630898,some high school,free/reduced,completed
+19630899,associate's degree,standard,completed
+19630900,some high school,standard,completed
+19630901,master's degree,standard,none
+19630902,master's degree,standard,none
+19630903,high school,free/reduced,completed
+19630904,bachelor's degree,free/reduced,completed
+19630905,some high school,free/reduced,none
+19630906,some college,standard,none
+19630907,high school,standard,none
+19630908,some college,standard,completed
+19630909,bachelor's degree,free/reduced,none
+19630910,bachelor's degree,standard,completed
+19630911,bachelor's degree,free/reduced,none
+19630912,some college,standard,none
+19630913,bachelor's degree,standard,completed
+19630914,bachelor's degree,free/reduced,completed
+19630915,associate's degree,free/reduced,none
+19630916,some college,standard,none
+19630917,bachelor's degree,standard,completed
+19630918,high school,standard,none
+19630919,associate's degree,standard,completed
+19630920,some college,standard,completed
+19630921,high school,free/reduced,none
+19630922,high school,free/reduced,none
+19630923,high school,standard,none
+19630924,associate's degree,free/reduced,none
+19630925,high school,free/reduced,none
+19630926,some high school,standard,completed
+19630927,associate's degree,free/reduced,none
+19630928,high school,free/reduced,completed
+19630929,associate's degree,free/reduced,completed
+19630930,some high school,free/reduced,none
+19630931,some college,free/reduced,completed
+19630932,some college,free/reduced,none
+19630933,associate's degree,free/reduced,completed
+19630934,bachelor's degree,free/reduced,completed
+19630935,associate's degree,standard,completed
+19630936,some college,free/reduced,none
+19630937,associate's degree,standard,none
+19630938,high school,free/reduced,none
+19630939,some college,standard,completed
+19630940,some high school,standard,completed
+19630941,master's degree,free/reduced,completed
+19630942,master's degree,standard,none
+19630943,high school,standard,none
+19630944,some high school,free/reduced,completed
+19630945,high school,standard,none
+19630946,associate's degree,standard,none
+19630947,high school,standard,none
+19630948,some college,free/reduced,none
+19630949,some high school,free/reduced,completed
+19630950,high school,free/reduced,completed
+19630951,high school,standard,none
+19630952,some college,standard,completed
+19630953,some high school,free/reduced,none
+19630954,high school,standard,completed
+19630955,some college,standard,none
+19630956,associate's degree,standard,none
+19630957,some college,standard,none
+19630958,master's degree,standard,none
+19630959,high school,standard,none
+19630960,high school,standard,none
+19630961,some college,standard,none
+19630962,some high school,free/reduced,none
+19630963,associate's degree,standard,none
+19630964,some high school,free/reduced,completed
+19630965,some college,standard,none
+19630966,some college,standard,none
+19630967,some high school,standard,completed
+19630968,some college,standard,none
+19630969,associate's degree,standard,none
+19630970,bachelor's degree,standard,none
+19630971,bachelor's degree,standard,none
+19630972,some high school,standard,completed
+19630973,high school,free/reduced,completed
+19630974,some college,free/reduced,none
+19630975,some college,standard,none
+19630976,some college,standard,completed
+19630977,some college,free/reduced,completed
+19630978,associate's degree,standard,none
+19630979,high school,standard,completed
+19630980,associate's degree,standard,none
+19630981,high school,free/reduced,none
+19630982,some high school,standard,none
+19630983,some high school,standard,completed
+19630984,some college,standard,completed
+19630985,some high school,standard,none
+19630986,high school,standard,none
+19630987,associate's degree,standard,none
+19630988,some high school,standard,completed
+19630989,some high school,free/reduced,none
+19630990,some college,free/reduced,completed
+19630991,high school,free/reduced,completed
+19630992,some high school,standard,completed
+19630993,associate's degree,free/reduced,none
+19630994,bachelor's degree,free/reduced,none
+19630995,high school,standard,none
+19630996,master's degree,standard,completed
+19630997,high school,free/reduced,none
+19630998,high school,free/reduced,completed
+19630999,some college,standard,completed
+19631000,some college,free/reduced,none

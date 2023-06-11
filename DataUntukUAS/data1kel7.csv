@@ -1,0 +1,406 @@
+basin_id,basin_name,population
+1,Khatanga,4633
+2,Olenek,5960
+3,Anabar,1402
+4,Yana,24517
+5,Yenisei,8453280
+6,Indigirka,41777
+7,Lena,1284810
+8,Omoloy,2881
+9,Tana (NO. FI),6523
+10,Colville,980
+11,Alazeya,6649
+12,Anderson,90
+13,Kolyma,138225
+14,Tuloma,209338
+15,Muonio,57777
+16,Yukon ,130852
+17,Palyavaam,7831
+18,Kemijoki,148981
+19,Mackenzie ,494118
+20,Noatak ,2044
+21,Anadyr,11240
+22,Pechora,605994
+23,Lule,35562
+24,Kalixaelven,35032
+25,Ob,29372200
+26,Ellice,0
+27,Taz,15085
+28,Kobuk ,2198
+29,Coppermine,431
+30,Hayes(Trib. Arctic Ocean),0
+31,Pur,196795
+32,Varzuga,4145
+33,Ponoy,3407
+34,Kovda,33176
+35,Back,11
+36,Kem,75620
+37,Nadym,43644
+38,Quoich ,0
+39,Mezen,42092
+40,Iijoki,62828
+41,Joekulsa A Fjoellum,762
+42,Svarta. Skagafiroi,2060
+43,Oulujoki,196925
+44,Lagarfljot,3054
+45,Thelon ,2168
+46,Angerman,66555
+47,Thjorsa,1985
+48,Northern Dvina(Severnaya Dvina),1718380
+49,Oelfusa,7587
+50,Nizhny Vyg (Soroka),86906
+51,Kuskokwim ,11404
+52,Vuoksi,750077
+53,Onega,176080
+54,Susitna ,30093
+55,Kymijoki,587655
+56,Neva,4244810
+57,Ferguson ,7
+58,Copper,4949
+59,Gloma,759489
+60,Kokemaenjoki,773376
+61,Vaenern-Goeta,1485740
+62,Thlewiaza ,52
+63,Alsek,1032
+64,Volga,61273800
+65,Dramselv,282181
+66,Arnaud,0
+67,Nushagak ,1469
+68,Seal ,1075
+69,Taku ,1896
+70,Narva,1216700
+71,Stikine ,1568
+72,Churchill,90521
+73,Feuilles (Riviere Aux),0
+74,George ,32
+75,Caniapiscau,921
+76,Western Dvina (Daugava),2722530
+77,Aux Melezes,0
+78,Baleine. Grande Riviere De La,0
+79,Spey,33166
+80,Kamchatka,25845
+81,Nass ,2984
+82,Skeena ,44896
+83,Nelson ,5565740
+84,Hayes(Trib. Hudson Bay),14490
+85,Gudena,450260
+86,Skjern A,165149
+87,Neman,5486880
+88,Fraser ,1293950
+89,Severn(Trib. Hudson Bay),6792
+90,Amur,66165300
+91,Tweed,410100
+92,Grande Riviere De La Baleine,558
+93,Grande Riviere,1489
+94,Winisk ,6079
+95,Churchill. Fleuve (Labrador),8629
+96,Dniepr,33021400
+97,Ural,4062630
+98,Wisla,23550100
+99,Don,20897900
+100,Oder ,16525600
+101,Elbe,22408100
+102,Trent,4841180
+103,Weser,8503490
+104,Attawapiskat,1414
+105,Eastmain,441
+106,Manicouagan (Riviere),13858
+107,Columbia,6607400
+108,Little Mecatina ,148
+109,Natashquan (Riviere),512
+110,Rhine,56921700
+111,Albany,19183
+112,Saguenay (Riviere),317070
+113,Thames,9674080
+114,Nottaway,43834
+115,Rupert ,405
+116,Moose(Trib. Hudson Bay),122363
+117,St.Lawrence,67620200
+118,Danube,81752800
+119,Seine,15598100
+120,Dniestr,7441530
+121,Southern Bug,3142420
+122,Mississippi ,74637300
+123,Skagit ,84033
+124,Aral Drainage,41542800
+125,Loire,7807270
+126,Rhone,10014800
+127,Saint John ,413278
+128,Po,17513200
+129,Penobscot ,154142
+130,St.Croix ,20303
+131,Kuban,3470690
+132,Connecticut,2068580
+133,Liao He,30133000
+134,Garonne,3327680
+135,Ishikari,1941950
+136,Merrimack ,2246250
+137,Hudson ,4379560
+138,Colorado(Pacific Ocean),7754730
+139,Klamath ,137158
+140,Ebro,2922480
+141,Rogue ,259989
+142,Douro,3744450
+143,Susquehanna ,4004120
+144,Luan He,11171900
+145,Kura,13773500
+146,Dalinghe,4434800
+147,Delaware,6415590
+148,Sacramento ,3015150
+149,Huang He (Yellow River),160715000
+150,Kizilirmak,4460330
+151,Yongding He,91200200
+152,Tejo,6898760
+153,Sakarya,5654860
+154,Eel (Calif.),37126
+155,Tigris & Euphrates,49255700
+156,Potomac ,3494420
+157,Guadiana,1600650
+158,Kitakami,1280540
+159,Mogami,1118180
+160,Han-Gang (Han River),11656000
+161,Guadalquivir,3947090
+162,San Joaquin ,1681380
+163,James ,909948
+164,Bravo,9249380
+165,Shinano. Chikuma,2132990
+166,Roanoke ,1471790
+167,Naktong,8178290
+168,Indus,212208000
+169,Tone,10010500
+170,Salinas,307941
+171,Pee Dee ,2599190
+172,Chelif,3854910
+173,Cape Fear,1625860
+174,Tenryu,1398320
+175,Santee ,3126590
+176,Kiso,1898990
+177,Yangtze(Chang Jiang),384680000
+178,Yodo,9644530
+179,Sebou,5479260
+180,Alabama River & Tombigbee,4334600
+181,Savannah ,1169380
+182,Gono (Go),401466
+183,Huai He,97812600
+184,Apalachicola,2955040
+185,Brazos,2820050
+186,Altamaha,2410710
+187,Mekong,57932400
+188,Colorado(Caribbean Sea),1667260
+189,Trinity(Texas),5421320
+190,Pearl ,622766
+191,Sabine ,574473
+192,Suwannee ,591333
+193,Yaqui,650988
+194,Nile,162346000
+195,Brahmaputra,67163100
+196,St.Johns ,2904720
+197,Nueces ,613863
+198,San Antonio ,915156
+199,Irrawaddy,33594300
+200,Fuerte,451617
+201,Xi Jiang,64672700
+202,Bei Jiang,20750800
+203,San Pedro,655008
+204,Dong Jiang,13460600
+205,Mahi ,11043000
+206,Damodar,28679500
+207,Niger,76930900
+208,Narmada,17017200
+209,Brahmani River (Bhahmani),12475600
+210,Mahanadi(Mahahadi),27697000
+211,Santiago,17991900
+212,Panuco,17860400
+213,Godavari,62327300
+214,Tapti ,16927600
+215,Sittang ,3191060
+216,Armeria,527007
+217,Ca,2652080
+218,Chao Phraya,26782400
+219,Krishna,76933400
+220,Senegal,5134070
+221,Papaloapan,2581550
+222,Grisalva,7036680
+223,Verde,862403
+224,Mae Klong,1568040
+225,Tranh (Nr Thu Bon),1024560
+226,Penner ,10924200
+227,Volta,19863000
+228,Lempa,4213240
+229,Gambia,1354970
+230,Grande De Matagalpa,546853
+231,Cauvery,35203300
+232,San Juan,3736210
+233,Geba,387732
+234,Corubal,540108
+235,Magdalena,25485800
+236,Comoe,2530920
+237,Orinoco,12007900
+238,Bandama,4221850
+239,Oueme,5845060
+240,Sassandra,3066420
+241,Shebelle,16003600
+242,Mono,1579850
+243,Congo,67996100
+244,Atrato,511458
+245,Cuyuni,145229
+246,Cavally,1042910
+247,Tano,1228240
+248,Cross,8986060
+249,Sanaga,3878220
+250,Pra,4090460
+251,Davo,588070
+252,Essequibo,54058
+253,Kelantan,628031
+254,Corantijn,114915
+255,Coppename,14206
+256,Kinabatangan,230078
+257,Maroni,35367
+258,San Juan (Columbia - Pacific),480299
+259,Amazonas,24646600
+260,Pahang,1771880
+261,Nyong,1096870
+262,Oyapock,10588
+263,Rajang,317541
+264,Ntem,406302
+265,Ogooue,605645
+266,Rio Araguari,30047
+267,Mira,616715
+268,Esmeraldas,2570700
+269,Tana,4247120
+270,Daule & Vinces,3751960
+271,Rio Gurupi,223991
+272,Rio Capim,571249
+273,Tocantins,4743730
+274,Kouilou,807229
+275,Nyanga,30486
+276,Rio Parnaiba,3699600
+277,Rio Itapecuru,970703
+278,Rio Acarau,461902
+279,Pangani,2174380
+280,Rio Pindare,516722
+281,Sepik,785225
+282,Rio Mearim,932065
+283,Chira,651347
+284,Rufiji,4582130
+285,Rio Jaguaribe,2096590
+286,Purari,797242
+287,Ruvu,699351
+288,Rio Paraiba,1211910
+289,Solo (Bengawan Solo),11102900
+290,Sao Francisco,12442500
+291,Brantas,8995650
+292,Santa,451672
+293,Zambezi,31680200
+294,Rio Vaza-Barris,421962
+295,Rio Itapicuru,958302
+296,Rio Paraguacu,1628730
+297,Canete,121491
+298,Rio De Contas,1401840
+299,Roper ,4047
+300,Daly,14918
+301,Drysdale,2146
+302,Parana,67514000
+303,Durack,2230
+304,Rio Prado,612921
+305,Victoria ,1365
+306,Mitchell(N. Au),24393
+307,Majes,102829
+308,Ord,2473
+309,Jequitinhonha,887101
+310,Macarthur ,542
+311,Fitzroy ,5856
+312,Gilbert ,2708
+313,Mucuri,300173
+314,Rio Doce,3858470
+315,Save,3185290
+316,Burdekin,69307
+317,Tsiribihina,2396510
+318,Buzi,1034320
+319,Loa,195523
+320,Limpopo,15637400
+321,De Grey,5408
+322,Paraiba Do Sul,6927710
+323,Fortescue ,4790
+324,Mangoky,587027
+325,Fitzroy,149743
+326,Orange,12665700
+327,Ashburton,4969
+328,Gascoyne ,2333
+329,Rio Ribeira Do Iguape,2463300
+330,Incomati,2416140
+331,Murray,2348090
+332,Murchison ,4823
+333,Maputo,1264770
+334,Uruguay,5047190
+335,Tugela,1784420
+336,Colorado (Argentinia),3267980
+337,Rio Jacui,2577790
+338,Huasco,25972
+339,Limari,141848
+340,Negro (Uruguay),531221
+341,Groot-Vis,299461
+342,Salado,1880050
+343,Blackwood,27692
+344,Rapel,740153
+345,Negro (Argentinia),709780
+346,Biobio,655158
+347,Waikato ,322699
+348,South Esk ,55674
+349,Chubut,211573
+350,Clutha,33929
+351,Baker,14456
+352,Santa Cruz,10013
+353,Ganges,454094000
+354,Salween,6599400
+355,Hong(Red River),25632200
+356,Lake Chad,34285300
+357,Okavango,1774000
+358,Tarim,9311040
+359,Horton ,36
+360,Hornaday ,54
+361,Conception,192706
+362,Ulua,2716130
+363,Patacua,537974
+364,Coco,694398
+365,Ocona,68271
+366,Cuanza,2845470
+367,Cunene,1370200
+368,Doring,167084
+369,Gamka,278648
+370,Groot- Kei,873587
+371,Lurio,1250340
+372,Messalo,288385
+373,Rovuma,1993910
+374,Galana,5589040
+375,Pyasina,244329
+376,Popigay,845
+377,Fuchun Jiang,10914100
+378,Min Jiang,9729770
+379,Han Jiang,9672140
+380,Mamberamo,442054
+381,Lorentz,16096
+382,Eilanden,55731
+383,Uwimbu,58827
+384,Sungai Kajan,92999
+385,Sungai Mahakam,891886
+386,Sungai Kapuas,1606700
+387,Batang Kuantan,1519730
+388,Batang Hari,2049480
+389,Flinders ,6334
+390,Leichhardt ,6430
+391,Escaut (Schelde),9448070
+392,Issyk-Kul,3325290
+393,Balkhash,5182190
+394,Eyre Lake,86249
+395,Lake Mar Chiquita,4096920
+396,Lake Turkana,8701300
+397,Dead Sea,6149610
+398,Suriname,102802
+399,Lake Titicaca,2690710
+400,Lake Vattern,405048
+401,Great Salt Lake,2224190
+402,Lake Taymur,6188
+403,Daryacheh-Ye Orumieh,4306830
+404,Van Golu,893956
+405,Ozero Sevan,412357

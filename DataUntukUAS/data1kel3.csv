@@ -1,0 +1,1001 @@
+Id,gender,race/ethnicity,parental level of education
+1961000,female,group B,bachelor's degree
+1961001,female,group C,some college
+1961002,female,group B,master's degree
+1961003,male,group A,associate's degree
+1961004,male,group C,some college
+1961005,female,group B,associate's degree
+1961006,female,group B,some college
+1961007,male,group B,some college
+1961008,male,group D,high school
+1961009,female,group B,high school
+1961010,male,group C,associate's degree
+1961011,male,group D,associate's degree
+1961012,female,group B,high school
+1961013,male,group A,some college
+1961014,female,group A,master's degree
+1961015,female,group C,some high school
+1961016,male,group C,high school
+1961017,female,group B,some high school
+1961018,male,group C,master's degree
+1961019,female,group C,associate's degree
+1961020,male,group D,high school
+1961021,female,group B,some college
+1961022,male,group D,some college
+1961023,female,group C,some high school
+1961024,male,group D,bachelor's degree
+1961025,male,group A,master's degree
+1961026,male,group B,some college
+1961027,female,group C,bachelor's degree
+1961028,male,group C,high school
+1961029,female,group D,master's degree
+1961030,female,group D,some college
+1961031,female,group B,some college
+1961032,female,group E,master's degree
+1961033,male,group D,some college
+1961034,male,group E,some college
+1961035,male,group E,associate's degree
+1961036,female,group D,associate's degree
+1961037,female,group D,some high school
+1961038,female,group D,associate's degree
+1961039,male,group B,associate's degree
+1961040,male,group C,associate's degree
+1961041,female,group C,associate's degree
+1961042,female,group B,associate's degree
+1961043,male,group B,some college
+1961044,female,group E,associate's degree
+1961045,male,group B,associate's degree
+1961046,female,group A,associate's degree
+1961047,female,group C,high school
+1961048,female,group D,associate's degree
+1961049,male,group C,high school
+1961050,male,group E,some college
+1961051,male,group E,associate's degree
+1961052,male,group C,some college
+1961053,male,group D,high school
+1961054,female,group C,some high school
+1961055,female,group C,high school
+1961056,female,group E,associate's degree
+1961057,male,group D,associate's degree
+1961058,male,group D,some college
+1961059,female,group C,some high school
+1961060,male,group E,bachelor's degree
+1961061,male,group A,some high school
+1961062,male,group A,associate's degree
+1961063,female,group C,associate's degree
+1961064,female,group D,some high school
+1961065,male,group B,some high school
+1961066,male,group D,some high school
+1961067,female,group C,some college
+1961068,male,group B,associate's degree
+1961069,female,group C,associate's degree
+1961070,female,group D,some college
+1961071,male,group D,some college
+1961072,female,group A,associate's degree
+1961073,male,group C,some high school
+1961074,male,group C,some high school
+1961075,male,group B,associate's degree
+1961076,male,group E,some high school
+1961077,male,group A,bachelor's degree
+1961078,female,group D,some high school
+1961079,female,group E,master's degree
+1961080,female,group B,associate's degree
+1961081,male,group B,high school
+1961082,male,group A,some college
+1961083,male,group E,associate's degree
+1961084,male,group D,high school
+1961085,female,group C,some college
+1961086,female,group C,some college
+1961087,female,group D,associate's degree
+1961088,female,group A,some college
+1961089,female,group D,some high school
+1961090,female,group C,bachelor's degree
+1961091,male,group C,high school
+1961092,male,group C,high school
+1961093,male,group C,associate's degree
+1961094,female,group B,some college
+1961095,male,group C,associate's degree
+1961096,male,group B,some high school
+1961097,female,group E,some college
+1961098,female,group D,some college
+1961099,female,group D,bachelor's degree
+1961100,male,group B,some college
+1961101,male,group D,bachelor's degree
+1961102,female,group D,associate's degree
+1961103,male,group B,high school
+1961104,male,group C,some college
+1961105,female,group C,some college
+1961106,female,group D,master's degree
+1961107,male,group E,associate's degree
+1961108,female,group B,associate's degree
+1961109,female,group B,some high school
+1961110,female,group D,associate's degree
+1961111,male,group C,high school
+1961112,male,group A,associate's degree
+1961113,female,group D,some college
+1961114,female,group E,bachelor's degree
+1961115,male,group C,high school
+1961116,female,group B,bachelor's degree
+1961117,female,group D,bachelor's degree
+1961118,female,group D,some high school
+1961119,female,group C,some college
+1961120,female,group C,bachelor's degree
+1961121,male,group B,associate's degree
+1961122,female,group C,some college
+1961123,male,group D,high school
+1961124,male,group E,some college
+1961125,female,group B,high school
+1961126,male,group B,some high school
+1961127,male,group D,some college
+1961128,male,group D,master's degree
+1961129,female,group A,bachelor's degree
+1961130,male,group D,master's degree
+1961131,male,group C,some high school
+1961132,male,group E,some college
+1961133,female,group C,some college
+1961134,male,group D,bachelor's degree
+1961135,male,group C,bachelor's degree
+1961136,male,group B,some high school
+1961137,male,group E,high school
+1961138,female,group C,associate's degree
+1961139,male,group D,some college
+1961140,female,group D,some high school
+1961141,female,group C,some college
+1961142,female,group E,some college
+1961143,male,group A,high school
+1961144,male,group D,some college
+1961145,female,group C,some college
+1961146,male,group B,some high school
+1961147,male,group C,associate's degree
+1961148,female,group D,bachelor's degree
+1961149,male,group E,associate's degree
+1961150,male,group A,some high school
+1961151,male,group A,bachelor's degree
+1961152,female,group B,associate's degree
+1961153,male,group D,bachelor's degree
+1961154,male,group D,some high school
+1961155,female,group C,some college
+1961156,female,group E,high school
+1961157,male,group B,some college
+1961158,female,group B,associate's degree
+1961159,male,group D,associate's degree
+1961160,male,group B,associate's degree
+1961161,female,group E,some college
+1961162,male,group B,master's degree
+1961163,male,group C,high school
+1961164,female,group E,master's degree
+1961165,female,group C,bachelor's degree
+1961166,male,group C,high school
+1961167,female,group B,master's degree
+1961168,female,group B,high school
+1961169,female,group C,some college
+1961170,male,group A,high school
+1961171,male,group E,some high school
+1961172,female,group D,some college
+1961173,female,group C,associate's degree
+1961174,female,group C,bachelor's degree
+1961175,female,group C,master's degree
+1961176,female,group B,high school
+1961177,female,group C,associate's degree
+1961178,female,group B,master's degree
+1961179,female,group D,some high school
+1961180,male,group C,master's degree
+1961181,female,group C,some college
+1961182,female,group E,high school
+1961183,female,group D,associate's degree
+1961184,male,group C,some high school
+1961185,male,group C,associate's degree
+1961186,male,group E,high school
+1961187,male,group D,some high school
+1961188,male,group B,some high school
+1961189,female,group C,bachelor's degree
+1961190,female,group E,associate's degree
+1961191,male,group D,some college
+1961192,female,group B,some high school
+1961193,male,group D,some college
+1961194,female,group C,master's degree
+1961195,male,group D,associate's degree
+1961196,male,group C,some high school
+1961197,male,group E,high school
+1961198,female,group B,some college
+1961199,female,group B,bachelor's degree
+1961200,female,group C,associate's degree
+1961201,female,group D,some college
+1961202,male,group C,associate's degree
+1961203,female,group B,associate's degree
+1961204,male,group C,some college
+1961205,male,group D,some high school
+1961206,male,group E,bachelor's degree
+1961207,male,group E,high school
+1961208,female,group B,some college
+1961209,female,group B,some college
+1961210,male,group D,some high school
+1961211,male,group C,some college
+1961212,female,group C,high school
+1961213,male,group C,associate's degree
+1961214,male,group E,high school
+1961215,male,group B,some high school
+1961216,female,group E,associate's degree
+1961217,female,group C,high school
+1961218,male,group B,high school
+1961219,male,group B,some high school
+1961220,female,group D,high school
+1961221,male,group B,associate's degree
+1961222,female,group C,some high school
+1961223,male,group D,some high school
+1961224,female,group B,associate's degree
+1961225,female,group E,master's degree
+1961226,female,group C,some college
+1961227,male,group D,high school
+1961228,male,group A,some high school
+1961229,female,group C,some college
+1961230,male,group D,some college
+1961231,male,group C,associate's degree
+1961232,female,group B,bachelor's degree
+1961233,male,group E,some high school
+1961234,male,group C,bachelor's degree
+1961235,male,group D,associate's degree
+1961236,male,group D,bachelor's degree
+1961237,female,group D,some high school
+1961238,male,group B,some college
+1961239,male,group C,associate's degree
+1961240,male,group D,high school
+1961241,female,group E,bachelor's degree
+1961242,female,group D,high school
+1961243,male,group E,some college
+1961244,male,group D,some high school
+1961245,male,group C,associate's degree
+1961246,male,group E,associate's degree
+1961247,female,group B,high school
+1961248,female,group B,high school
+1961249,male,group C,high school
+1961250,male,group A,some high school
+1961251,female,group D,some college
+1961252,female,group B,some high school
+1961253,male,group D,master's degree
+1961254,male,group D,high school
+1961255,female,group E,some college
+1961256,female,group C,associate's degree
+1961257,male,group C,associate's degree
+1961258,female,group B,some college
+1961259,female,group C,master's degree
+1961260,female,group C,some high school
+1961261,male,group C,some college
+1961262,female,group C,some high school
+1961263,female,group E,high school
+1961264,male,group D,high school
+1961265,male,group D,some high school
+1961266,female,group C,bachelor's degree
+1961267,female,group D,high school
+1961268,female,group D,associate's degree
+1961269,female,group E,some college
+1961270,male,group C,bachelor's degree
+1961271,male,group C,some college
+1961272,female,group D,associate's degree
+1961273,female,group D,some college
+1961274,male,group B,some college
+1961275,male,group C,bachelor's degree
+1961276,female,group C,some high school
+1961277,female,group E,high school
+1961278,female,group C,some high school
+1961279,male,group B,bachelor's degree
+1961280,male,group D,high school
+1961281,male,group D,high school
+1961282,female,group D,bachelor's degree
+1961283,female,group D,some college
+1961284,female,group B,some high school
+1961285,male,group B,associate's degree
+1961286,male,group E,associate's degree
+1961287,female,group B,some high school
+1961288,male,group B,bachelor's degree
+1961289,male,group E,some high school
+1961290,male,group C,associate's degree
+1961291,male,group D,some high school
+1961292,male,group C,some high school
+1961293,female,group E,bachelor's degree
+1961294,male,group D,high school
+1961295,male,group B,associate's degree
+1961296,male,group A,some high school
+1961297,male,group E,associate's degree
+1961298,male,group C,high school
+1961299,male,group D,associate's degree
+1961300,male,group A,some college
+1961301,male,group D,some high school
+1961302,female,group C,associate's degree
+1961303,male,group B,associate's degree
+1961304,female,group C,associate's degree
+1961305,male,group A,some college
+1961306,male,group E,some college
+1961307,male,group C,some high school
+1961308,female,group B,associate's degree
+1961309,female,group D,high school
+1961310,female,group B,associate's degree
+1961311,male,group B,bachelor's degree
+1961312,male,group D,bachelor's degree
+1961313,female,group C,associate's degree
+1961314,female,group C,bachelor's degree
+1961315,male,group C,high school
+1961316,female,group D,master's degree
+1961317,male,group C,associate's degree
+1961318,male,group B,bachelor's degree
+1961319,female,group D,associate's degree
+1961320,female,group C,high school
+1961321,female,group E,high school
+1961322,female,group C,some college
+1961323,female,group C,some high school
+1961324,female,group C,high school
+1961325,female,group C,some college
+1961326,male,group C,some college
+1961327,male,group A,some college
+1961328,male,group C,associate's degree
+1961329,female,group B,some high school
+1961330,male,group C,high school
+1961331,male,group C,associate's degree
+1961332,male,group E,associate's degree
+1961333,male,group B,associate's degree
+1961334,female,group C,bachelor's degree
+1961335,female,group B,some college
+1961336,male,group D,some high school
+1961337,male,group C,associate's degree
+1961338,female,group B,some high school
+1961339,female,group D,some high school
+1961340,male,group C,high school
+1961341,female,group C,high school
+1961342,female,group B,high school
+1961343,male,group D,associate's degree
+1961344,male,group D,some college
+1961345,female,group C,high school
+1961346,male,group B,some college
+1961347,female,group C,bachelor's degree
+1961348,male,group D,high school
+1961349,male,group E,associate's degree
+1961350,female,group B,bachelor's degree
+1961351,male,group E,some college
+1961352,female,group C,some college
+1961353,female,group C,associate's degree
+1961354,female,group C,some college
+1961355,female,group B,bachelor's degree
+1961356,male,group A,associate's degree
+1961357,female,group C,some college
+1961358,male,group D,some college
+1961359,female,group D,some college
+1961360,female,group B,high school
+1961361,male,group B,some high school
+1961362,female,group C,some college
+1961363,female,group D,some high school
+1961364,male,group C,some college
+1961365,male,group A,bachelor's degree
+1961366,male,group C,high school
+1961367,male,group C,bachelor's degree
+1961368,female,group A,some high school
+1961369,female,group D,some high school
+1961370,male,group E,some college
+1961371,female,group C,some college
+1961372,male,group D,some high school
+1961373,female,group D,some college
+1961374,female,group D,bachelor's degree
+1961375,male,group E,associate's degree
+1961376,female,group D,some high school
+1961377,female,group D,master's degree
+1961378,female,group A,some high school
+1961379,male,group A,bachelor's degree
+1961380,female,group B,associate's degree
+1961381,male,group C,associate's degree
+1961382,male,group C,master's degree
+1961383,female,group E,some high school
+1961384,female,group A,some high school
+1961385,female,group E,some college
+1961386,female,group E,bachelor's degree
+1961387,female,group C,associate's degree
+1961388,female,group D,high school
+1961389,male,group D,master's degree
+1961390,male,group E,some high school
+1961391,female,group D,some college
+1961392,male,group E,some college
+1961393,male,group C,associate's degree
+1961394,female,group C,some high school
+1961395,male,group A,high school
+1961396,female,group B,high school
+1961397,female,group C,associate's degree
+1961398,male,group B,some high school
+1961399,male,group D,some high school
+1961400,female,group C,some high school
+1961401,male,group A,some college
+1961402,female,group A,some college
+1961403,female,group D,high school
+1961404,female,group C,high school
+1961405,female,group C,some high school
+1961406,male,group B,associate's degree
+1961407,female,group B,associate's degree
+1961408,female,group D,high school
+1961409,male,group D,associate's degree
+1961410,female,group D,master's degree
+1961411,male,group E,some college
+1961412,male,group D,associate's degree
+1961413,male,group B,some high school
+1961414,female,group C,bachelor's degree
+1961415,male,group E,high school
+1961416,male,group C,bachelor's degree
+1961417,male,group C,associate's degree
+1961418,male,group D,some college
+1961419,male,group E,high school
+1961420,female,group C,associate's degree
+1961421,female,group D,high school
+1961422,female,group D,master's degree
+1961423,female,group A,some high school
+1961424,male,group B,some college
+1961425,female,group C,some college
+1961426,male,group C,bachelor's degree
+1961427,male,group C,some high school
+1961428,male,group A,some high school
+1961429,male,group C,some high school
+1961430,male,group C,associate's degree
+1961431,female,group C,high school
+1961432,male,group C,high school
+1961433,female,group A,some high school
+1961434,male,group C,some high school
+1961435,male,group C,some college
+1961436,male,group D,associate's degree
+1961437,male,group D,associate's degree
+1961438,male,group C,high school
+1961439,male,group D,some high school
+1961440,female,group C,some college
+1961441,female,group D,high school
+1961442,female,group A,some high school
+1961443,female,group B,associate's degree
+1961444,male,group A,some high school
+1961445,female,group C,some high school
+1961446,male,group D,some college
+1961447,male,group C,high school
+1961448,male,group B,high school
+1961449,male,group B,associate's degree
+1961450,female,group C,some college
+1961451,female,group E,some college
+1961452,female,group C,associate's degree
+1961453,male,group C,some college
+1961454,female,group C,associate's degree
+1961455,male,group C,bachelor's degree
+1961456,female,group D,bachelor's degree
+1961457,male,group D,associate's degree
+1961458,female,group E,bachelor's degree
+1961459,male,group B,high school
+1961460,male,group C,bachelor's degree
+1961461,male,group B,some college
+1961462,female,group E,some college
+1961463,female,group C,some college
+1961464,male,group A,bachelor's degree
+1961465,female,group C,some college
+1961466,female,group D,associate's degree
+1961467,male,group A,high school
+1961468,female,group A,high school
+1961469,male,group C,some college
+1961470,female,group C,associate's degree
+1961471,female,group C,high school
+1961472,female,group C,associate's degree
+1961473,female,group D,some high school
+1961474,female,group B,associate's degree
+1961475,female,group D,bachelor's degree
+1961476,male,group E,bachelor's degree
+1961477,male,group D,associate's degree
+1961478,female,group D,master's degree
+1961479,male,group E,associate's degree
+1961480,male,group B,high school
+1961481,female,group D,associate's degree
+1961482,male,group C,some college
+1961483,male,group A,high school
+1961484,female,group B,associate's degree
+1961485,male,group C,high school
+1961486,male,group D,some college
+1961487,female,group C,associate's degree
+1961488,male,group B,some high school
+1961489,male,group A,associate's degree
+1961490,female,group A,associate's degree
+1961491,female,group C,associate's degree
+1961492,female,group C,some college
+1961493,female,group C,bachelor's degree
+1961494,female,group B,high school
+1961495,male,group D,high school
+1961496,female,group C,some college
+1961497,female,group D,some college
+1961498,female,group B,some high school
+1961499,male,group E,some college
+1961500,female,group D,master's degree
+1961501,female,group B,associate's degree
+1961502,male,group C,some college
+1961503,female,group E,associate's degree
+1961504,female,group D,master's degree
+1961505,female,group B,some high school
+1961506,male,group A,high school
+1961507,male,group B,bachelor's degree
+1961508,male,group C,master's degree
+1961509,female,group C,bachelor's degree
+1961510,male,group D,some college
+1961511,male,group A,some high school
+1961512,male,group D,some high school
+1961513,female,group B,some high school
+1961514,female,group B,master's degree
+1961515,female,group C,some high school
+1961516,female,group D,some college
+1961517,female,group E,some college
+1961518,female,group D,some high school
+1961519,female,group B,high school
+1961520,male,group D,some college
+1961521,female,group C,associate's degree
+1961522,male,group D,bachelor's degree
+1961523,male,group C,master's degree
+1961524,male,group C,high school
+1961525,male,group E,some college
+1961526,male,group C,some high school
+1961527,female,group C,high school
+1961528,female,group D,bachelor's degree
+1961529,female,group C,associate's degree
+1961530,female,group C,associate's degree
+1961531,female,group C,some high school
+1961532,male,group E,associate's degree
+1961533,female,group E,associate's degree
+1961534,male,group B,high school
+1961535,female,group C,bachelor's degree
+1961536,male,group C,associate's degree
+1961537,female,group D,high school
+1961538,male,group E,bachelor's degree
+1961539,male,group A,associate's degree
+1961540,male,group C,high school
+1961541,male,group D,associate's degree
+1961542,female,group C,associate's degree
+1961543,female,group D,associate's degree
+1961544,female,group D,master's degree
+1961545,male,group E,some high school
+1961546,female,group A,some high school
+1961547,male,group C,high school
+1961548,female,group C,high school
+1961549,male,group C,master's degree
+1961550,male,group C,some high school
+1961551,male,group B,bachelor's degree
+1961552,female,group B,associate's degree
+1961553,male,group D,some college
+1961554,male,group E,associate's degree
+1961555,female,group C,some college
+1961556,female,group C,associate's degree
+1961557,male,group C,master's degree
+1961558,female,group B,associate's degree
+1961559,male,group D,some high school
+1961560,female,group D,some college
+1961561,female,group C,some college
+1961562,male,group C,bachelor's degree
+1961563,female,group D,some college
+1961564,male,group B,bachelor's degree
+1961565,male,group B,associate's degree
+1961566,female,group E,bachelor's degree
+1961567,female,group D,master's degree
+1961568,male,group B,high school
+1961569,male,group D,bachelor's degree
+1961570,male,group B,some college
+1961571,male,group A,bachelor's degree
+1961572,female,group C,some college
+1961573,female,group C,high school
+1961574,female,group E,high school
+1961575,male,group A,associate's degree
+1961576,male,group A,some college
+1961577,female,group B,high school
+1961578,female,group B,some college
+1961579,female,group D,master's degree
+1961580,female,group D,some high school
+1961581,female,group E,some high school
+1961582,female,group D,bachelor's degree
+1961583,female,group D,associate's degree
+1961584,female,group D,some college
+1961585,female,group C,associate's degree
+1961586,female,group A,high school
+1961587,female,group C,bachelor's degree
+1961588,female,group C,some college
+1961589,female,group A,some high school
+1961590,male,group C,some college
+1961591,male,group A,some high school
+1961592,male,group E,bachelor's degree
+1961593,female,group E,high school
+1961594,female,group C,bachelor's degree
+1961595,female,group C,bachelor's degree
+1961596,male,group B,high school
+1961597,male,group A,some high school
+1961598,female,group D,high school
+1961599,female,group D,some high school
+1961600,female,group D,master's degree
+1961601,female,group C,high school
+1961602,female,group E,some college
+1961603,male,group D,high school
+1961604,male,group D,master's degree
+1961605,male,group C,some high school
+1961606,female,group C,associate's degree
+1961607,female,group C,master's degree
+1961608,female,group E,some college
+1961609,female,group B,associate's degree
+1961610,male,group D,some college
+1961611,female,group C,some college
+1961612,male,group C,bachelor's degree
+1961613,female,group C,associate's degree
+1961614,female,group A,associate's degree
+1961615,female,group C,high school
+1961616,female,group E,bachelor's degree
+1961617,male,group D,bachelor's degree
+1961618,male,group D,master's degree
+1961619,male,group C,associate's degree
+1961620,female,group C,high school
+1961621,male,group B,bachelor's degree
+1961622,male,group C,high school
+1961623,male,group A,some college
+1961624,female,group E,bachelor's degree
+1961625,male,group D,some college
+1961626,male,group B,associate's degree
+1961627,male,group D,associate's degree
+1961628,male,group D,some college
+1961629,female,group C,some high school
+1961630,male,group D,some college
+1961631,male,group B,high school
+1961632,female,group B,bachelor's degree
+1961633,female,group C,high school
+1961634,male,group D,some high school
+1961635,male,group A,high school
+1961636,female,group B,high school
+1961637,female,group D,some high school
+1961638,male,group E,some college
+1961639,female,group D,associate's degree
+1961640,male,group D,high school
+1961641,female,group D,associate's degree
+1961642,female,group B,some high school
+1961643,female,group E,high school
+1961644,male,group B,high school
+1961645,female,group B,bachelor's degree
+1961646,female,group D,associate's degree
+1961647,female,group E,high school
+1961648,female,group B,high school
+1961649,female,group D,some college
+1961650,male,group C,some high school
+1961651,female,group A,high school
+1961652,female,group D,some college
+1961653,female,group A,associate's degree
+1961654,female,group B,some high school
+1961655,female,group B,some college
+1961656,male,group C,associate's degree
+1961657,male,group D,some high school
+1961658,female,group D,associate's degree
+1961659,male,group D,associate's degree
+1961660,male,group C,some college
+1961661,male,group C,some high school
+1961662,female,group D,some college
+1961663,female,group C,high school
+1961664,male,group D,associate's degree
+1961665,female,group C,some high school
+1961666,female,group C,some college
+1961667,female,group B,bachelor's degree
+1961668,male,group C,some college
+1961669,male,group D,associate's degree
+1961670,female,group C,high school
+1961671,male,group D,associate's degree
+1961672,female,group C,some college
+1961673,female,group C,associate's degree
+1961674,female,group D,high school
+1961675,female,group B,some college
+1961676,female,group E,some college
+1961677,female,group C,some high school
+1961678,male,group D,associate's degree
+1961679,male,group D,some college
+1961680,female,group D,high school
+1961681,male,group B,high school
+1961682,male,group B,high school
+1961683,female,group C,some high school
+1961684,male,group B,some college
+1961685,female,group E,master's degree
+1961686,male,group E,some college
+1961687,male,group D,associate's degree
+1961688,male,group A,high school
+1961689,male,group E,some college
+1961690,female,group C,associate's degree
+1961691,female,group E,associate's degree
+1961692,female,group C,bachelor's degree
+1961693,female,group D,associate's degree
+1961694,female,group C,some high school
+1961695,female,group D,some college
+1961696,female,group C,associate's degree
+1961697,female,group A,bachelor's degree
+1961698,female,group D,associate's degree
+1961699,male,group C,high school
+1961700,female,group E,bachelor's degree
+1961701,female,group B,some high school
+1961702,male,group A,bachelor's degree
+1961703,female,group D,some college
+1961704,female,group B,some high school
+1961705,male,group A,bachelor's degree
+1961706,male,group D,high school
+1961707,male,group C,some college
+1961708,male,group D,high school
+1961709,female,group D,associate's degree
+1961710,male,group C,some college
+1961711,female,group E,some high school
+1961712,female,group D,some college
+1961713,male,group D,master's degree
+1961714,female,group B,some high school
+1961715,female,group B,associate's degree
+1961716,male,group C,associate's degree
+1961717,female,group C,associate's degree
+1961718,female,group C,high school
+1961719,male,group E,associate's degree
+1961720,female,group C,some college
+1961721,male,group D,some high school
+1961722,female,group B,some high school
+1961723,male,group C,high school
+1961724,male,group B,some college
+1961725,male,group E,some college
+1961726,female,group E,associate's degree
+1961727,male,group E,some high school
+1961728,female,group D,high school
+1961729,male,group C,some college
+1961730,female,group B,associate's degree
+1961731,male,group A,some high school
+1961732,female,group C,some college
+1961733,male,group D,some high school
+1961734,female,group E,some college
+1961735,male,group C,master's degree
+1961736,male,group C,associate's degree
+1961737,female,group B,some college
+1961738,male,group D,associate's degree
+1961739,male,group C,high school
+1961740,male,group D,bachelor's degree
+1961741,female,group A,associate's degree
+1961742,female,group C,high school
+1961743,female,group C,associate's degree
+1961744,male,group B,some college
+1961745,male,group D,associate's degree
+1961746,male,group D,high school
+1961747,male,group C,some college
+1961748,female,group C,bachelor's degree
+1961749,male,group B,some college
+1961750,male,group D,some high school
+1961751,male,group E,some college
+1961752,male,group C,master's degree
+1961753,female,group C,some high school
+1961754,male,group C,associate's degree
+1961755,female,group E,associate's degree
+1961756,male,group D,some college
+1961757,male,group E,bachelor's degree
+1961758,female,group D,some college
+1961759,male,group B,some college
+1961760,female,group C,high school
+1961761,female,group D,some high school
+1961762,male,group D,some high school
+1961763,female,group B,high school
+1961764,male,group D,some college
+1961765,female,group B,high school
+1961766,female,group C,high school
+1961767,male,group B,high school
+1961768,female,group D,some high school
+1961769,male,group A,some college
+1961770,male,group B,high school
+1961771,male,group D,bachelor's degree
+1961772,female,group B,some high school
+1961773,female,group C,bachelor's degree
+1961774,male,group B,some college
+1961775,female,group B,some high school
+1961776,female,group B,high school
+1961777,female,group C,some college
+1961778,female,group A,some college
+1961779,male,group E,associate's degree
+1961780,female,group D,associate's degree
+1961781,female,group B,master's degree
+1961782,female,group B,high school
+1961783,female,group C,associate's degree
+1961784,male,group C,bachelor's degree
+1961785,female,group B,some high school
+1961786,female,group E,some high school
+1961787,female,group B,some college
+1961788,male,group C,associate's degree
+1961789,female,group C,master's degree
+1961790,female,group B,high school
+1961791,female,group D,some college
+1961792,male,group D,high school
+1961793,male,group E,some high school
+1961794,female,group B,high school
+1961795,female,group E,associate's degree
+1961796,male,group D,high school
+1961797,female,group E,associate's degree
+1961798,male,group E,some college
+1961799,female,group C,associate's degree
+1961800,male,group C,some high school
+1961801,male,group C,some high school
+1961802,female,group E,associate's degree
+1961803,female,group B,some college
+1961804,female,group C,some college
+1961805,male,group A,some college
+1961806,female,group D,some college
+1961807,female,group E,high school
+1961808,male,group C,high school
+1961809,male,group B,bachelor's degree
+1961810,male,group A,some high school
+1961811,male,group A,high school
+1961812,female,group C,master's degree
+1961813,male,group E,some high school
+1961814,female,group C,high school
+1961815,male,group B,some high school
+1961816,female,group A,bachelor's degree
+1961817,male,group D,bachelor's degree
+1961818,female,group B,high school
+1961819,female,group C,some high school
+1961820,female,group A,some high school
+1961821,female,group D,bachelor's degree
+1961822,male,group E,some college
+1961823,female,group B,high school
+1961824,female,group C,some high school
+1961825,male,group C,high school
+1961826,female,group C,associate's degree
+1961827,female,group C,some high school
+1961828,female,group D,some high school
+1961829,male,group B,some high school
+1961830,female,group A,some college
+1961831,female,group C,bachelor's degree
+1961832,male,group A,bachelor's degree
+1961833,female,group B,high school
+1961834,male,group B,some college
+1961835,female,group C,high school
+1961836,male,group E,high school
+1961837,female,group A,high school
+1961838,male,group B,associate's degree
+1961839,female,group C,associate's degree
+1961840,female,group D,high school
+1961841,male,group C,some high school
+1961842,female,group B,high school
+1961843,male,group B,some college
+1961844,female,group D,some high school
+1961845,male,group E,master's degree
+1961846,male,group C,master's degree
+1961847,male,group D,high school
+1961848,female,group C,high school
+1961849,male,group D,associate's degree
+1961850,male,group C,master's degree
+1961851,female,group A,high school
+1961852,female,group E,some college
+1961853,male,group E,some high school
+1961854,male,group C,some high school
+1961855,female,group B,bachelor's degree
+1961856,male,group B,some college
+1961857,female,group C,bachelor's degree
+1961858,male,group B,high school
+1961859,male,group C,associate's degree
+1961860,female,group C,associate's degree
+1961861,female,group E,master's degree
+1961862,male,group D,bachelor's degree
+1961863,female,group C,some college
+1961864,male,group C,associate's degree
+1961865,male,group D,some college
+1961866,male,group C,high school
+1961867,male,group B,associate's degree
+1961868,male,group E,associate's degree
+1961869,male,group C,associate's degree
+1961870,male,group B,high school
+1961871,female,group C,some college
+1961872,male,group B,associate's degree
+1961873,male,group E,associate's degree
+1961874,female,group C,bachelor's degree
+1961875,male,group C,some college
+1961876,male,group D,some college
+1961877,male,group C,some high school
+1961878,female,group D,some high school
+1961879,female,group D,associate's degree
+1961880,male,group C,bachelor's degree
+1961881,female,group E,bachelor's degree
+1961882,female,group B,high school
+1961883,male,group D,bachelor's degree
+1961884,female,group E,associate's degree
+1961885,female,group C,associate's degree
+1961886,female,group E,associate's degree
+1961887,male,group C,high school
+1961888,female,group D,some college
+1961889,male,group D,high school
+1961890,female,group E,some college
+1961891,female,group E,associate's degree
+1961892,female,group A,master's degree
+1961893,male,group D,some high school
+1961894,female,group E,associate's degree
+1961895,female,group E,some high school
+1961896,male,group B,high school
+1961897,female,group B,some high school
+1961898,male,group D,associate's degree
+1961899,female,group D,some high school
+1961900,male,group D,master's degree
+1961901,female,group C,master's degree
+1961902,female,group A,high school
+1961903,female,group D,bachelor's degree
+1961904,female,group D,some high school
+1961905,male,group D,some college
+1961906,male,group B,high school
+1961907,female,group D,some college
+1961908,female,group C,bachelor's degree
+1961909,male,group E,bachelor's degree
+1961910,male,group D,bachelor's degree
+1961911,female,group A,some college
+1961912,female,group C,bachelor's degree
+1961913,female,group C,bachelor's degree
+1961914,female,group B,associate's degree
+1961915,female,group E,some college
+1961916,male,group E,bachelor's degree
+1961917,female,group C,high school
+1961918,female,group C,associate's degree
+1961919,male,group B,some college
+1961920,male,group D,high school
+1961921,female,group C,high school
+1961922,male,group D,high school
+1961923,female,group B,associate's degree
+1961924,male,group D,high school
+1961925,male,group E,some high school
+1961926,male,group E,associate's degree
+1961927,female,group D,high school
+1961928,male,group E,associate's degree
+1961929,female,group C,some high school
+1961930,male,group C,some college
+1961931,male,group D,some college
+1961932,male,group D,associate's degree
+1961933,male,group C,bachelor's degree
+1961934,male,group C,associate's degree
+1961935,male,group D,some college
+1961936,male,group A,associate's degree
+1961937,female,group E,high school
+1961938,male,group D,some college
+1961939,male,group D,some high school
+1961940,male,group C,master's degree
+1961941,female,group D,master's degree
+1961942,male,group C,high school
+1961943,male,group A,some high school
+1961944,female,group B,high school
+1961945,female,group C,associate's degree
+1961946,male,group B,high school
+1961947,female,group D,some college
+1961948,male,group B,some high school
+1961949,female,group E,high school
+1961950,male,group E,high school
+1961951,female,group D,some college
+1961952,female,group E,some high school
+1961953,male,group C,high school
+1961954,female,group C,some college
+1961955,male,group E,associate's degree
+1961956,male,group C,some college
+1961957,female,group D,master's degree
+1961958,female,group D,high school
+1961959,male,group C,high school
+1961960,female,group A,some college
+1961961,female,group D,some high school
+1961962,female,group E,associate's degree
+1961963,female,group C,some high school
+1961964,male,group D,some college
+1961965,female,group D,some college
+1961966,male,group A,some high school
+1961967,male,group C,some college
+1961968,female,group E,associate's degree
+1961969,female,group B,bachelor's degree
+1961970,female,group D,bachelor's degree
+1961971,male,group C,some high school
+1961972,female,group A,high school
+1961973,female,group D,some college
+1961974,female,group A,some college
+1961975,female,group C,some college
+1961976,male,group B,some college
+1961977,male,group C,associate's degree
+1961978,male,group D,high school
+1961979,female,group C,associate's degree
+1961980,female,group B,high school
+1961981,male,group D,some high school
+1961982,male,group B,some high school
+1961983,female,group A,some college
+1961984,female,group C,some high school
+1961985,male,group A,high school
+1961986,female,group C,associate's degree
+1961987,male,group E,some high school
+1961988,female,group A,some high school
+1961989,female,group D,some college
+1961990,male,group E,high school
+1961991,female,group B,some high school
+1961992,female,group D,associate's degree
+1961993,female,group D,bachelor's degree
+1961994,male,group A,high school
+1961995,female,group E,master's degree
+1961996,male,group C,high school
+1961997,female,group C,high school
+1961998,female,group D,some college
+1961999,female,group D,some college
