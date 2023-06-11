@@ -1,501 +1,1001 @@
-Sample ID,pH,Temperature (°C),Turbidity (NTU)
-1,7.25,23.1,4.5
-2,7.11,22.3,5.1
-3,7.03,21.5,3.9
-4,7.38,22.9,3.2
-5,7.45,20.7,3.8
-6,6.89,23.6,4.6
-7,7.19,21.2,4.2
-8,6.98,22.1,3.7
-9,7.31,20.4,4.1
-10,7.02,22.7,4.8
-11,7.24,22.4,4.3
-12,7.17,21.6,3.6
-13,6.95,22.3,4.1
-14,7.06,23.5,3.7
-15,7.48,20.8,3.4
-16,6.92,21.4,4.9
-17,7.11,22.0,4.4
-18,7.3,23.2,3.5
-19,7.13,21.1,4.0
-20,7.01,23.0,4.7
-21,6.83,22.5,3.3
-22,7.34,20.3,4.2
-23,7.16,23.4,4.5
-24,7.25,22.6,3.9
-25,7.39,21.9,4.1
-26,7.02,22.2,4.6
-27,7.27,21.8,3.7
-28,7.09,23.3,5.0
-29,7.15,20.6,4.4
-30,7.07,22.8,3.8
-31,7.22,22.5,4.3
-32,6.92,21.7,4.7
-33,7.13,23.1,3.6
-34,7.31,20.9,4.0
-35,7.03,22.6,4.9
-36,7.21,21.8,3.8
-37,7.13,22.5,4.2
-38,7.09,23.1,4.4
-39,7.35,21.6,3.9
-40,7.02,22.0,3.2
-41,7.28,23.5,3.7
-42,7.14,20.9,4.3
-43,6.96,22.9,4.8
-44,7.24,22.7,4.1
-45,7.37,21.5,4.5
-46,7.08,23.3,3.6
-47,7.16,21.1,4.4
-48,7.03,22.4,4.0
-49,7.32,23.2,4.5
-50,7.19,20.8,3.9
-51,7.12,22.1,4.6
-52,7.26,22.2,3.3
-53,7.04,21.6,3.8
-54,7.41,23.0,4.2
-55,7.08,21.7,4.1
-56,7.25,22.8,3.5
-57,7.17,20.6,4.7
-58,7.01,23.4,3.6
-59,6.9,22.5,4.2
-60,7.29,21.9,4.8
-61,7.19,23.1,3.9
-62,7.01,21.3,4.3
-63,7.15,22.6,4.5
-64,7.12,22.0,3.7
-65,6.94,23.2,4.0
-66,7.36,22.4,4.5
-67,7.02,20.7,3.8
-68,7.26,23.5,4.6
-69,7.08,21.4,3.3
-70,7.14,22.9,4.4
-71,7.31,21.2,3.6
-72,7.03,23.0,4.8
-73,7.18,22.5,3.5
-74,7.24,20.9,4.6
-75,7.14,22.8,4.2
-76,7.06,22.1,3.9
-77,7.29,23.3,3.4
-78,7.12,21.7,4.7
-79,7.01,22.6,3.2
-80,7.35,22.1,4.5
-81,7.04,23.1,4.0
-82,7.16,21.3,3.8
-83,7.22,22.3,4.3
-84,7.13,20.7,4.1
-85,7.25,23.0,3.9
-86,7.09,22.2,4.4
-87,7.19,21.1,3.3
-88,7.08,22.7,4.6
-89,7.37,22.4,3.7
-90,7.12,21.8,4.5
-91,7.27,23.4,4.2
-92,7.04,21.5,4.8
-93,7.15,23.1,4.4
-94,7.21,22.5,3.6
-95,6.98,21.9,4.0
-96,7.34,23.2,4.6
-97,7.02,21.0,3.9
-98,7.26,22.8,3.2
-99,7.09,23.0,4.3
-100,7.13,21.6,4.7
-101,7.16,22.2,3.3
-102,7.21,21.4,4.2
-103,7.32,23.3,4.1
-104,7.05,20.9,3.7
-105,7.13,22.5,4.3
-106,7.25,21.9,3.5
-107,7.08,23.1,4.5
-108,7.19,22.0,4.7
-109,7.01,20.8,3.6
-110,7.33,22.4,4.8
-111,7.07,23.2,3.5
-112,7.17,21.6,4.5
-113,7.23,22.9,3.6
-114,7.14,20.5,4.4
-115,7.26,23.4,3.3
-116,7.09,22.1,4.1
-117,7.2,21.3,4.4
-118,7.05,22.7,4.7
-119,7.38,21.5,3.9
-120,7.11,22.6,4.2
-121,7.28,20.7,3.8
-122,7.03,23.3,4.3
-123,7.15,21.2,3.4
-124,7.21,22.4,4.6
-125,7.12,23.0,3.1
-126,7.0,22.3,4.5
-127,7.34,21.1,3.7
-128,7.02,22.9,4.1
-129,7.24,21.8,4.4
-130,7.1,23.4,4.8
-131,7.16,20.4,3.8
-132,7.29,22.3,4.2
-133,7.01,21.6,4.3
-134,7.18,23.1,3.7
-135,7.13,21.3,4.5
-136,7.24,22.5,3.9
-137,7.05,20.8,4.6
-138,7.2,23.4,4.1
-139,7.1,22.6,3.8
-140,7.33,21.2,4.4
-141,7.07,23.0,3.4
-142,7.21,21.7,4.5
-143,7.23,22.1,3.6
-144,7.16,20.6,4.2
-145,7.28,23.3,3.4
-146,7.09,21.9,4.8
-147,7.22,20.5,4.6
-148,7.04,22.8,3.5
-149,7.35,21.4,3.9
-150,7.08,22.2,4.3
-151,7.26,21.0,3.8
-152,7.03,23.2,4.1
-153,7.15,21.1,4.7
-154,7.19,22.5,3.1
-155,7.11,22.9,4.4
-156,7.01,20.9,4.8
-157,7.31,21.6,3.6
-158,7.02,22.2,4.5
-159,7.25,21.8,4.2
-160,7.12,23.5,4.6
-161,7.17,21.4,3.9
-162,7.29,20.8,4.7
-163,7.01,22.3,4.5
-164,7.18,23.0,4.1
-165,7.14,20.5,3.6
-166,7.25,21.3,4.4
-167,7.05,22.6,3.9
-168,7.2,21.2,4.6
-169,7.1,22.9,3.7
-170,7.33,23.4,4.5
-171,7.07,20.6,3.5
-172,7.21,22.1,4.2
-173,7.23,23.3,4.6
-174,7.16,21.8,4.0
-175,7.28,20.9,4.3
-176,7.09,22.2,3.7
-177,7.22,23.1,4.4
-178,7.04,20.8,4.1
-179,7.35,22.5,3.8
-180,7.08,21.7,4.6
-181,7.26,23.0,3.9
-182,7.03,20.7,4.4
-183,7.15,22.1,3.8
-184,7.19,23.2,4.3
-185,7.11,21.3,4.5
-186,7.01,22.0,3.6
-187,7.31,21.5,4.7
-188,7.02,23.1,4.1
-189,7.25,20.7,4.6
-190,7.12,22.4,3.5
-191,7.09,21.9,4.2
-192,7.16,22.5,3.9
-193,7.2,21.7,4.1
-194,7.08,23.5,3.8
-195,7.32,20.5,4.2
-196,7.14,21.2,4.3
-197,7.05,22.8,3.6
-198,7.25,23.2,4.4
-199,7.19,21.6,4.6
-200,7.1,22.7,3.5
-201,7.16,21.8,4.2
-202,7.29,23.1,3.8
-203,7.01,21.3,4.3
-204,7.18,22.2,3.9
-205,7.14,23.4,4.7
-206,7.25,20.6,4.5
-207,7.05,22.5,3.7
-208,7.2,21.9,4.6
-209,7.1,23.0,4.1
-210,7.33,20.9,4.4
-211,7.07,22.1,3.8
-212,7.21,23.3,4.3
-213,7.23,20.8,4.2
-214,7.16,22.6,3.6
-215,7.28,21.2,4.5
-216,7.09,22.9,3.9
-217,7.22,20.5,4.6
-218,7.04,23.0,3.7
-219,7.35,21.6,4.4
-220,7.08,22.3,3.8
-221,7.26,23.2,4.3
-222,7.03,21.1,4.2
-223,7.15,22.7,3.9
-224,7.19,21.4,4.5
-225,7.11,23.5,3.6
-226,7.01,20.7,4.7
-227,7.31,22.4,4.4
-228,7.02,23.0,3.8
-229,7.25,21.8,4.6
-230,7.12,22.3,4.1
-231,7.16,20.8,3.9
-232,7.29,22.7,4.5
-233,7.01,21.4,4.2
-234,7.18,23.2,3.6
-235,7.14,20.9,4.4
-236,7.25,22.6,3.8
-237,7.05,21.1,4.7
-238,7.2,23.4,4.3
-239,7.1,21.9,3.9
-240,7.33,22.5,4.6
-241,7.07,23.3,3.8
-242,7.21,20.8,4.5
-243,7.23,22.3,4.1
-244,7.16,21.6,4.4
-245,7.28,23.1,3.7
-246,7.09,20.4,4.6
-247,7.22,22.0,4.3
-248,7.04,23.2,3.9
-249,7.35,21.5,4.7
-250,7.08,22.6,3.8
-251,7.26,21.3,4.5
-252,7.03,22.2,4.2
-253,7.15,23.0,3.6
-254,7.19,20.6,4.4
-255,7.11,22.5,3.9
-256,7.01,21.2,4.6
-257,7.31,23.3,4.1
-258,7.02,20.9,4.5
-259,7.25,22.8,3.8
-260,7.12,21.4,4.3
-261,7.16,22.1,3.9
-262,7.29,20.8,4.6
-263,7.01,22.3,4.3
-264,7.18,23.0,3.7
-265,7.14,20.5,4.5
-266,7.25,21.3,4.2
-267,7.05,22.6,3.8
-268,7.2,21.2,4.7
-269,7.1,22.9,3.9
-270,7.33,23.4,4.6
-271,7.07,20.6,3.8
-272,7.21,22.1,4.5
-273,7.23,23.3,4.2
-274,7.16,20.8,4.3
-275,7.28,23.0,3.6
-276,7.09,21.9,4.5
-277,7.22,20.5,4.4
-278,7.04,22.8,3.7
-279,7.35,21.4,4.6
-280,7.08,22.2,3.9
-281,7.26,21.0,4.5
-282,7.03,23.2,4.2
-283,7.15,21.1,4.1
-284,7.19,22.5,4.3
-285,7.11,22.9,3.8
-286,7.01,20.9,4.6
-287,7.31,21.6,3.9
-288,7.02,22.2,4.4
-289,7.25,21.8,4.1
-290,7.12,23.5,4.5
-291,7.16,21.3,4.0
-292,7.29,22.4,4.7
-293,7.01,21.0,4.5
-294,7.18,23.2,3.9
-295,7.14,20.9,4.4
-296,7.25,22.5,3.8
-297,7.05,21.1,4.3
-298,7.2,22.9,4.6
-299,7.1,21.8,3.9
-300,7.33,23.1,4.5
-301,7.07,20.7,3.8
-302,7.21,22.6,4.5
-303,7.23,21.2,4.2
-304,7.16,23.0,3.6
-305,7.28,20.8,4.5
-306,7.09,22.3,3.9
-307,7.22,23.2,4.3
-308,7.04,20.6,4.4
-309,7.35,22.1,3.7
-310,7.08,23.4,4.6
-311,7.26,21.3,3.9
-312,7.03,22.0,4.2
-313,7.15,23.1,3.6
-314,7.19,21.4,4.3
-315,7.11,22.7,4.5
-316,7.01,20.8,4.6
-317,7.31,22.5,3.8
-318,7.02,21.2,4.7
-319,7.25,23.0,3.9
-320,7.12,20.9,4.4
-321,7.16,21.7,4.1
-322,7.29,22.8,4.8
-323,7.01,21.4,4.6
-324,7.18,23.1,4.0
-325,7.14,20.7,4.4
-326,7.25,22.3,3.8
-327,7.05,21.0,4.3
-328,7.2,22.9,4.7
-329,7.1,21.8,4.0
-330,7.33,23.2,4.6
-331,7.07,20.8,3.8
-332,7.21,22.4,4.5
-333,7.23,21.2,4.2
-334,7.16,23.0,3.6
-335,7.28,20.9,4.5
-336,7.09,22.5,3.9
-337,7.22,23.3,4.3
-338,7.04,20.7,4.4
-339,7.35,22.6,3.7
-340,7.08,21.3,4.6
-341,7.26,23.1,3.9
-342,7.03,22.0,4.2
-343,7.15,23.2,3.6
-344,7.19,21.4,4.3
-345,7.11,22.7,4.5
-346,7.01,20.8,4.6
-347,7.31,22.5,3.8
-348,7.02,21.2,4.7
-349,7.25,23.0,3.9
-350,7.12,20.9,4.4
-351,7.16,21.7,4.1
-352,7.29,22.8,4.8
-353,7.01,21.4,4.6
-354,7.18,23.1,4.0
-355,7.14,20.7,4.4
-356,7.25,22.3,3.8
-357,7.05,21.0,4.3
-358,7.2,22.9,4.7
-359,7.1,21.8,4.0
-360,7.33,23.2,4.6
-361,7.07,20.8,3.8
-362,7.21,22.4,4.5
-363,7.23,21.2,4.2
-364,7.16,23.0,3.6
-365,7.28,20.9,4.5
-366,7.09,22.5,3.9
-367,7.22,23.3,4.3
-368,7.04,20.7,4.4
-369,7.35,22.6,3.7
-370,7.08,21.3,4.6
-371,7.26,23.1,3.9
-372,7.03,22.0,4.2
-373,7.15,23.2,3.6
-374,7.19,21.4,4.3
-375,7.11,22.7,4.5
-376,7.01,20.8,4.6
-377,7.31,22.5,3.8
-378,7.02,21.2,4.7
-379,7.25,23.0,3.9
-380,7.12,20.9,4.4
-381,7.16,21.7,4.1
-382,7.29,22.8,4.8
-383,7.01,21.4,4.6
-384,7.18,23.1,4.0
-385,7.14,20.7,4.4
-386,7.25,22.3,3.8
-387,7.05,21.0,4.3
-388,7.2,22.9,4.7
-389,7.1,21.8,4.0
-390,7.33,23.2,4.6
-391,7.07,20.8,3.8
-392,7.21,22.4,4.5
-393,7.23,21.2,4.2
-394,7.16,23.0,3.6
-395,7.28,20.9,4.5
-396,7.09,22.5,3.9
-397,7.22,23.3,4.3
-398,7.04,20.7,4.4
-399,7.35,22.6,3.7
-400,7.08,21.3,4.6
-401,7.26,23.1,3.9
-402,7.03,22.0,4.2
-403,7.15,23.2,3.6
-404,7.19,21.4,4.3
-405,7.11,22.7,4.5
-406,7.01,20.8,4.6
-407,7.31,22.5,3.8
-408,7.02,21.2,4.7
-409,7.25,23.0,3.9
-410,7.12,20.9,4.4
-411,7.16,21.7,4.1
-412,7.29,22.8,4.8
-413,7.01,21.4,4.6
-414,7.18,23.1,4.0
-415,7.14,20.7,4.4
-416,7.25,22.3,3.8
-417,7.05,21.0,4.3
-418,7.2,22.9,4.7
-419,7.1,21.8,4.0
-420,7.33,23.2,4.6
-421,7.07,20.8,3.8
-422,7.21,22.4,4.5
-423,7.23,21.2,4.2
-424,7.16,23.0,3.6
-425,7.28,20.9,4.5
-426,7.09,22.5,3.9
-427,7.22,23.3,4.3
-428,7.04,20.7,4.4
-429,7.35,22.6,3.7
-430,7.08,21.3,4.6
-431,7.26,23.1,3.9
-432,7.03,22.0,4.2
-433,7.15,23.2,3.6
-434,7.19,21.4,4.3
-435,7.11,22.7,4.5
-436,7.01,20.8,4.6
-437,7.31,22.5,3.8
-438,7.02,21.2,4.7
-439,7.25,23.0,3.9
-440,7.12,20.9,4.4
-441,7.16,21.7,4.1
-442,7.29,22.8,4.8
-443,7.01,21.4,4.6
-444,7.18,23.1,4.0
-445,7.14,20.7,4.4
-446,7.25,22.3,3.8
-447,7.05,21.0,4.3
-448,7.2,22.9,4.7
-449,7.1,21.8,4.0
-450,7.33,23.2,4.6
-451,7.07,20.8,3.8
-452,7.21,22.4,4.5
-453,7.23,21.2,4.2
-454,7.16,23.0,3.6
-455,7.28,20.9,4.5
-456,7.09,22.5,3.9
-457,7.22,23.3,4.3
-458,7.04,20.7,4.4
-459,7.35,22.6,3.7
-460,7.08,21.3,4.6
-461,7.26,23.1,3.9
-462,7.03,22.0,4.2
-463,7.15,23.2,3.6
-464,7.19,21.4,4.3
-465,7.11,22.7,4.5
-466,7.01,20.8,4.6
-467,7.31,22.5,3.8
-468,7.02,21.2,4.7
-469,7.25,23.0,3.9
-470,7.12,20.9,4.4
-471,7.16,21.7,4.1
-472,7.29,22.8,4.8
-473,7.01,21.4,4.6
-474,7.18,23.1,4.0
-475,7.14,20.7,4.4
-476,7.25,22.3,3.8
-477,7.05,21.0,4.3
-478,7.2,22.9,4.7
-479,7.1,21.8,4.0
-480,7.33,23.2,4.6
-481,7.07,20.8,3.8
-482,7.21,22.4,4.5
-483,7.23,21.2,4.2
-484,7.16,23.0,3.6
-485,7.28,20.9,4.5
-486,7.09,22.5,3.9
-487,7.22,23.3,4.3
-488,7.04,20.7,4.4
-489,7.35,22.6,3.7
-490,7.08,21.3,4.6
-491,7.26,23.1,3.9
-492,7.03,22.0,4.2
-493,7.15,23.2,3.6
-494,7.19,21.4,4.3
-495,7.11,22.7,4.5
-496,7.01,20.8,4.6
-497,7.31,22.5,3.8
-498,7.02,21.2,4.7
-499,7.25,23.0,3.9
-500,7.12,20.9,4.4
+Id,gender,race/ethnicity,lunch,test preparation course
+2061001,female,group B,standard,none
+2061002,female,group C,standard,completed
+2061003,female,group B,standard,none
+2061004,male,group A,free/reduced,none
+2061005,male,group C,standard,none
+2061006,female,group B,standard,none
+2061007,female,group B,standard,completed
+2061008,male,group B,free/reduced,none
+2061009,male,group D,free/reduced,completed
+2061010,female,group B,free/reduced,none
+2061011,male,group C,standard,none
+2061012,male,group D,standard,none
+2061013,female,group B,standard,none
+2061014,male,group A,standard,completed
+2061015,female,group A,standard,none
+2061016,female,group C,standard,none
+2061017,male,group C,standard,none
+2061018,female,group B,free/reduced,none
+2061019,male,group C,free/reduced,completed
+2061020,female,group C,free/reduced,none
+2061021,male,group D,standard,none
+2061022,female,group B,free/reduced,completed
+2061023,male,group D,standard,none
+2061024,female,group C,standard,none
+2061025,male,group D,free/reduced,completed
+2061026,male,group A,free/reduced,none
+2061027,male,group B,standard,none
+2061028,female,group C,standard,none
+2061029,male,group C,standard,none
+2061030,female,group D,standard,none
+2061031,female,group D,standard,none
+2061032,female,group B,standard,none
+2061033,female,group E,free/reduced,none
+2061034,male,group D,standard,none
+2061035,male,group E,standard,none
+2061036,male,group E,standard,completed
+2061037,female,group D,standard,none
+2061038,female,group D,free/reduced,none
+2061039,female,group D,free/reduced,completed
+2061040,male,group B,free/reduced,none
+2061041,male,group C,free/reduced,none
+2061042,female,group C,standard,none
+2061043,female,group B,standard,none
+2061044,male,group B,free/reduced,completed
+2061045,female,group E,free/reduced,none
+2061046,male,group B,standard,none
+2061047,female,group A,standard,completed
+2061048,female,group C,standard,none
+2061049,female,group D,free/reduced,completed
+2061050,male,group C,standard,completed
+2061051,male,group E,standard,none
+2061052,male,group E,free/reduced,completed
+2061053,male,group C,standard,none
+2061054,male,group D,standard,none
+2061055,female,group C,free/reduced,completed
+2061056,female,group C,free/reduced,none
+2061057,female,group E,standard,completed
+2061058,male,group D,standard,none
+2061059,male,group D,standard,completed
+2061060,female,group C,free/reduced,none
+2061061,male,group E,free/reduced,completed
+2061062,male,group A,free/reduced,none
+2061063,male,group A,free/reduced,none
+2061064,female,group C,standard,none
+2061065,female,group D,standard,none
+2061066,male,group B,standard,none
+2061067,male,group D,free/reduced,none
+2061068,female,group C,standard,none
+2061069,male,group B,free/reduced,none
+2061070,female,group C,standard,none
+2061071,female,group D,free/reduced,completed
+2061072,male,group D,standard,completed
+2061073,female,group A,free/reduced,none
+2061074,male,group C,free/reduced,none
+2061075,male,group C,standard,none
+2061076,male,group B,free/reduced,none
+2061077,male,group E,standard,none
+2061078,male,group A,standard,completed
+2061079,female,group D,standard,completed
+2061080,female,group E,standard,none
+2061081,female,group B,standard,none
+2061082,male,group B,free/reduced,none
+2061083,male,group A,free/reduced,completed
+2061084,male,group E,standard,none
+2061085,male,group D,free/reduced,none
+2061086,female,group C,standard,none
+2061087,female,group C,free/reduced,none
+2061088,female,group D,standard,none
+2061089,female,group A,standard,none
+2061090,female,group D,standard,none
+2061091,female,group C,standard,none
+2061092,male,group C,free/reduced,none
+2061093,male,group C,standard,none
+2061094,male,group C,free/reduced,completed
+2061095,female,group B,standard,none
+2061096,male,group C,free/reduced,completed
+2061097,male,group B,standard,completed
+2061098,female,group E,standard,completed
+2061099,female,group D,free/reduced,none
+2061100,female,group D,standard,none
+2061101,male,group B,standard,none
+2061102,male,group D,standard,completed
+2061103,female,group D,standard,none
+2061104,male,group B,standard,completed
+2061105,male,group C,standard,completed
+2061106,female,group C,standard,none
+2061107,female,group D,standard,none
+2061108,male,group E,standard,completed
+2061109,female,group B,free/reduced,none
+2061110,female,group B,standard,none
+2061111,female,group D,free/reduced,completed
+2061112,male,group C,standard,none
+2061113,male,group A,standard,none
+2061114,female,group D,standard,none
+2061115,female,group E,standard,completed
+2061116,male,group C,standard,none
+2061117,female,group B,free/reduced,none
+2061118,female,group D,standard,none
+2061119,female,group D,standard,none
+2061120,female,group C,standard,none
+2061121,female,group C,standard,completed
+2061122,male,group B,standard,completed
+2061123,female,group C,standard,completed
+2061124,male,group D,free/reduced,none
+2061125,male,group E,standard,none
+2061126,female,group B,standard,none
+2061127,male,group B,standard,none
+2061128,male,group D,standard,completed
+2061129,male,group D,standard,none
+2061130,female,group A,standard,none
+2061131,male,group D,standard,none
+2061132,male,group C,free/reduced,completed
+2061133,male,group E,free/reduced,completed
+2061134,female,group C,standard,completed
+2061135,male,group D,free/reduced,completed
+2061136,male,group C,standard,none
+2061137,male,group B,standard,completed
+2061138,male,group E,standard,none
+2061139,female,group C,standard,none
+2061140,male,group D,standard,completed
+2061141,female,group D,standard,none
+2061142,female,group C,free/reduced,none
+2061143,female,group E,free/reduced,completed
+2061144,male,group A,standard,none
+2061145,male,group D,standard,none
+2061146,female,group C,free/reduced,none
+2061147,male,group B,standard,none
+2061148,male,group C,free/reduced,none
+2061149,female,group D,standard,completed
+2061150,male,group E,free/reduced,completed
+2061151,male,group A,standard,completed
+2061152,male,group A,standard,none
+2061153,female,group B,standard,completed
+2061154,male,group D,standard,none
+2061155,male,group D,standard,none
+2061156,female,group C,standard,completed
+2061157,female,group E,free/reduced,completed
+2061158,male,group B,free/reduced,none
+2061159,female,group B,standard,completed
+2061160,male,group D,free/reduced,none
+2061161,male,group B,free/reduced,completed
+2061162,female,group E,free/reduced,completed
+2061163,male,group B,free/reduced,none
+2061164,male,group C,standard,none
+2061165,female,group E,standard,none
+2061166,female,group C,standard,completed
+2061167,male,group C,free/reduced,completed
+2061168,female,group B,free/reduced,completed
+2061169,female,group B,standard,completed
+2061170,female,group C,free/reduced,completed
+2061171,male,group A,standard,completed
+2061172,male,group E,standard,none
+2061173,female,group D,standard,none
+2061174,female,group C,standard,none
+2061175,female,group C,free/reduced,completed
+2061176,female,group C,standard,completed
+2061177,female,group B,free/reduced,completed
+2061178,female,group C,standard,completed
+2061179,female,group B,free/reduced,completed
+2061180,female,group D,standard,completed
+2061181,male,group C,free/reduced,completed
+2061182,female,group C,free/reduced,none
+2061183,female,group E,standard,none
+2061184,female,group D,standard,none
+2061185,male,group C,free/reduced,completed
+2061186,male,group C,free/reduced,completed
+2061187,male,group E,standard,none
+2061188,male,group D,standard,completed
+2061189,male,group B,free/reduced,none
+2061190,female,group C,standard,none
+2061191,female,group E,standard,none
+2061192,male,group D,standard,completed
+2061193,female,group B,standard,none
+2061194,male,group D,standard,completed
+2061195,female,group C,standard,completed
+2061196,male,group D,standard,none
+2061197,male,group C,free/reduced,completed
+2061198,male,group E,free/reduced,none
+2061199,female,group B,free/reduced,none
+2061200,female,group B,free/reduced,none
+2061201,female,group C,standard,completed
+2061202,female,group D,free/reduced,none
+2061203,male,group C,standard,none
+2061204,female,group B,standard,none
+2061205,male,group C,standard,none
+2061206,male,group D,standard,completed
+2061207,male,group E,standard,none
+2061208,male,group E,standard,completed
+2061209,female,group B,free/reduced,none
+2061210,female,group B,free/reduced,none
+2061211,male,group D,free/reduced,completed
+2061212,male,group C,free/reduced,none
+2061213,female,group C,free/reduced,none
+2061214,male,group C,free/reduced,completed
+2061215,male,group E,standard,completed
+2061216,male,group B,standard,completed
+2061217,female,group E,free/reduced,completed
+2061218,female,group C,free/reduced,none
+2061219,male,group B,free/reduced,none
+2061220,male,group B,standard,completed
+2061221,female,group D,standard,completed
+2061222,male,group B,standard,none
+2061223,female,group C,free/reduced,none
+2061224,male,group D,standard,none
+2061225,female,group B,standard,completed
+2061226,female,group E,free/reduced,none
+2061227,female,group C,standard,none
+2061228,male,group D,standard,none
+2061229,male,group A,free/reduced,none
+2061230,female,group C,standard,completed
+2061231,male,group D,standard,none
+2061232,male,group C,standard,none
+2061233,female,group B,standard,none
+2061234,male,group E,standard,none
+2061235,male,group C,standard,completed
+2061236,male,group D,standard,none
+2061237,male,group D,free/reduced,none
+2061238,female,group D,standard,completed
+2061239,male,group B,standard,none
+2061240,male,group C,standard,none
+2061241,male,group D,free/reduced,completed
+2061242,female,group E,standard,none
+2061243,female,group D,standard,none
+2061244,male,group E,standard,none
+2061245,male,group D,standard,none
+2061246,male,group C,standard,none
+2061247,male,group E,standard,none
+2061248,female,group B,standard,completed
+2061249,female,group B,standard,none
+2061250,male,group C,standard,none
+2061251,male,group A,standard,completed
+2061252,female,group D,free/reduced,none
+2061253,female,group B,standard,completed
+2061254,male,group D,standard,none
+2061255,male,group D,standard,none
+2061256,female,group E,standard,none
+2061257,female,group C,free/reduced,none
+2061258,male,group C,standard,completed
+2061259,female,group B,standard,none
+2061260,female,group C,free/reduced,completed
+2061261,female,group C,free/reduced,completed
+2061262,male,group C,standard,completed
+2061263,female,group C,free/reduced,none
+2061264,female,group E,standard,none
+2061265,male,group D,standard,none
+2061266,male,group D,free/reduced,none
+2061267,female,group C,standard,none
+2061268,female,group D,standard,none
+2061269,female,group D,standard,completed
+2061270,female,group E,free/reduced,none
+2061271,male,group C,standard,none
+2061272,male,group C,standard,none
+2061273,female,group D,free/reduced,none
+2061274,female,group D,standard,none
+2061275,male,group B,standard,completed
+2061276,male,group C,standard,none
+2061277,female,group C,standard,completed
+2061278,female,group E,standard,completed
+2061279,female,group C,free/reduced,none
+2061280,male,group B,free/reduced,none
+2061281,male,group D,standard,none
+2061282,male,group D,standard,none
+2061283,female,group D,free/reduced,none
+2061284,female,group D,free/reduced,completed
+2061285,female,group B,standard,none
+2061286,male,group B,standard,completed
+2061287,male,group E,standard,completed
+2061288,female,group B,standard,none
+2061289,male,group B,free/reduced,none
+2061290,male,group E,standard,completed
+2061291,male,group C,standard,none
+2061292,male,group D,standard,none
+2061293,male,group C,standard,completed
+2061294,female,group E,standard,none
+2061295,male,group D,free/reduced,completed
+2061296,male,group B,free/reduced,none
+2061297,male,group A,standard,completed
+2061298,male,group E,standard,completed
+2061299,male,group C,free/reduced,completed
+2061300,male,group D,free/reduced,none
+2061301,male,group A,free/reduced,completed
+2061302,male,group D,free/reduced,none
+2061303,female,group C,standard,completed
+2061304,male,group B,standard,none
+2061305,female,group C,standard,completed
+2061306,male,group A,standard,none
+2061307,male,group E,standard,completed
+2061308,male,group C,standard,none
+2061309,female,group B,free/reduced,none
+2061310,female,group D,free/reduced,none
+2061311,female,group B,standard,none
+2061312,male,group B,standard,none
+2061313,male,group D,standard,completed
+2061314,female,group C,free/reduced,completed
+2061315,female,group C,standard,completed
+2061316,male,group C,standard,none
+2061317,female,group D,standard,completed
+2061318,male,group C,standard,none
+2061319,male,group B,standard,none
+2061320,female,group D,free/reduced,none
+2061321,female,group C,free/reduced,completed
+2061322,female,group E,standard,none
+2061323,female,group C,standard,none
+2061324,female,group C,free/reduced,none
+2061325,female,group C,free/reduced,none
+2061326,female,group C,standard,none
+2061327,male,group C,standard,none
+2061328,male,group A,free/reduced,none
+2061329,male,group C,standard,completed
+2061330,female,group B,standard,none
+2061331,male,group C,standard,none
+2061332,male,group C,standard,none
+2061333,male,group E,standard,completed
+2061334,male,group B,standard,none
+2061335,female,group C,standard,none
+2061336,female,group B,free/reduced,none
+2061337,male,group D,standard,completed
+2061338,male,group C,standard,none
+2061339,female,group B,free/reduced,none
+2061340,female,group D,free/reduced,completed
+2061341,male,group C,free/reduced,none
+2061342,female,group C,standard,none
+2061343,female,group B,standard,completed
+2061344,male,group D,standard,completed
+2061345,male,group D,standard,none
+2061346,female,group C,standard,none
+2061347,male,group B,standard,none
+2061348,female,group C,standard,completed
+2061349,male,group D,free/reduced,none
+2061350,male,group E,standard,none
+2061351,female,group B,standard,none
+2061352,male,group E,standard,none
+2061353,female,group C,standard,completed
+2061354,female,group C,standard,none
+2061355,female,group C,standard,none
+2061356,female,group B,standard,none
+2061357,male,group A,standard,none
+2061358,female,group C,free/reduced,completed
+2061359,male,group D,free/reduced,none
+2061360,female,group D,standard,none
+2061361,female,group B,standard,none
+2061362,male,group B,standard,completed
+2061363,female,group C,standard,none
+2061364,female,group D,free/reduced,none
+2061365,male,group C,standard,none
+2061366,male,group A,free/reduced,completed
+2061367,male,group C,standard,completed
+2061368,male,group C,free/reduced,none
+2061369,female,group A,free/reduced,none
+2061370,female,group D,standard,none
+2061371,male,group E,standard,none
+2061372,female,group C,free/reduced,completed
+2061373,male,group D,standard,none
+2061374,female,group D,standard,completed
+2061375,female,group D,standard,none
+2061376,male,group E,free/reduced,none
+2061377,female,group D,standard,none
+2061378,female,group D,free/reduced,completed
+2061379,female,group A,standard,none
+2061380,male,group A,standard,none
+2061381,female,group B,standard,none
+2061382,male,group C,standard,completed
+2061383,male,group C,free/reduced,none
+2061384,female,group E,free/reduced,none
+2061385,female,group A,free/reduced,none
+2061386,female,group E,standard,none
+2061387,female,group E,standard,none
+2061388,female,group C,free/reduced,none
+2061389,female,group D,standard,none
+2061390,male,group D,standard,none
+2061391,male,group E,free/reduced,completed
+2061392,female,group D,standard,none
+2061393,male,group E,standard,none
+2061394,male,group C,standard,completed
+2061395,female,group C,standard,completed
+2061396,male,group A,free/reduced,none
+2061397,female,group B,free/reduced,none
+2061398,female,group C,standard,none
+2061399,male,group B,standard,none
+2061400,male,group D,standard,none
+2061401,female,group C,standard,completed
+2061402,male,group A,standard,none
+2061403,female,group A,free/reduced,none
+2061404,female,group D,standard,completed
+2061405,female,group C,standard,none
+2061406,female,group C,standard,none
+2061407,male,group B,standard,completed
+2061408,female,group B,standard,none
+2061409,female,group D,free/reduced,completed
+2061410,male,group D,standard,completed
+2061411,female,group D,standard,completed
+2061412,male,group E,standard,completed
+2061413,male,group D,standard,none
+2061414,male,group B,standard,completed
+2061415,female,group C,free/reduced,completed
+2061416,male,group E,standard,none
+2061417,male,group C,standard,completed
+2061418,male,group C,standard,none
+2061419,male,group D,standard,none
+2061420,male,group E,free/reduced,completed
+2061421,female,group C,free/reduced,completed
+2061422,female,group D,standard,completed
+2061423,female,group D,free/reduced,completed
+2061424,female,group A,standard,completed
+2061425,male,group B,free/reduced,none
+2061426,female,group C,free/reduced,none
+2061427,male,group C,standard,none
+2061428,male,group C,free/reduced,none
+2061429,male,group A,free/reduced,none
+2061430,male,group C,free/reduced,none
+2061431,male,group C,free/reduced,none
+2061432,female,group C,standard,none
+2061433,male,group C,standard,none
+2061434,female,group A,free/reduced,none
+2061435,male,group C,standard,none
+2061436,male,group C,free/reduced,completed
+2061437,male,group D,standard,none
+2061438,male,group D,free/reduced,none
+2061439,male,group C,standard,none
+2061440,male,group D,standard,completed
+2061441,female,group C,standard,completed
+2061442,female,group D,standard,none
+2061443,female,group A,free/reduced,none
+2061444,female,group B,standard,none
+2061445,male,group A,free/reduced,none
+2061446,female,group C,standard,completed
+2061447,male,group D,free/reduced,none
+2061448,male,group C,standard,completed
+2061449,male,group B,standard,none
+2061450,male,group B,standard,none
+2061451,female,group C,free/reduced,completed
+2061452,female,group E,standard,none
+2061453,female,group C,free/reduced,none
+2061454,male,group C,free/reduced,none
+2061455,female,group C,free/reduced,none
+2061456,male,group C,free/reduced,none
+2061457,female,group D,standard,none
+2061458,male,group D,free/reduced,none
+2061459,female,group E,standard,none
+2061460,male,group B,standard,completed
+2061461,male,group C,free/reduced,none
+2061462,male,group B,free/reduced,none
+2061463,female,group E,standard,none
+2061464,female,group C,free/reduced,none
+2061465,male,group A,standard,completed
+2061466,female,group C,standard,none
+2061467,female,group D,free/reduced,none
+2061468,male,group A,free/reduced,completed
+2061469,female,group A,free/reduced,completed
+2061470,male,group C,standard,none
+2061471,female,group C,standard,completed
+2061472,female,group C,standard,none
+2061473,female,group C,standard,completed
+2061474,female,group D,standard,none
+2061475,female,group B,standard,completed
+2061476,female,group D,standard,completed
+2061477,male,group E,standard,completed
+2061478,male,group D,standard,none
+2061479,female,group D,standard,none
+2061480,male,group E,standard,none
+2061481,male,group B,standard,completed
+2061482,female,group D,free/reduced,none
+2061483,male,group C,free/reduced,none
+2061484,male,group A,standard,none
+2061485,female,group B,standard,none
+2061486,male,group C,standard,none
+2061487,male,group D,free/reduced,none
+2061488,female,group C,free/reduced,none
+2061489,male,group B,standard,completed
+2061490,male,group A,free/reduced,completed
+2061491,female,group A,free/reduced,none
+2061492,female,group C,standard,none
+2061493,female,group C,standard,none
+2061494,female,group C,standard,none
+2061495,female,group B,standard,none
+2061496,male,group D,standard,completed
+2061497,female,group C,standard,none
+2061498,female,group D,free/reduced,completed
+2061499,female,group B,standard,none
+2061500,male,group E,standard,none
+2061501,female,group D,standard,none
+2061502,female,group B,standard,completed
+2061503,male,group C,free/reduced,none
+2061504,female,group E,standard,completed
+2061505,female,group D,free/reduced,none
+2061506,female,group B,standard,none
+2061507,male,group A,standard,none
+2061508,male,group B,free/reduced,none
+2061509,male,group C,standard,none
+2061510,female,group C,standard,none
+2061511,male,group D,standard,none
+2061512,male,group A,standard,none
+2061513,male,group D,free/reduced,none
+2061514,female,group B,standard,completed
+2061515,female,group B,free/reduced,completed
+2061516,female,group C,standard,completed
+2061517,female,group D,standard,none
+2061518,female,group E,standard,completed
+2061519,female,group D,standard,completed
+2061520,female,group B,free/reduced,completed
+2061521,male,group D,standard,none
+2061522,female,group C,standard,none
+2061523,male,group D,standard,none
+2061524,male,group C,free/reduced,none
+2061525,male,group C,standard,completed
+2061526,male,group E,standard,none
+2061527,male,group C,free/reduced,completed
+2061528,female,group C,free/reduced,none
+2061529,female,group D,free/reduced,none
+2061530,female,group C,standard,none
+2061531,female,group C,standard,completed
+2061532,female,group C,standard,none
+2061533,male,group E,standard,completed
+2061534,female,group E,standard,completed
+2061535,male,group B,standard,completed
+2061536,female,group C,free/reduced,completed
+2061537,male,group C,standard,completed
+2061538,female,group D,standard,none
+2061539,male,group E,standard,completed
+2061540,male,group A,standard,completed
+2061541,male,group C,standard,completed
+2061542,male,group D,free/reduced,completed
+2061543,female,group C,standard,none
+2061544,female,group D,standard,none
+2061545,female,group D,standard,none
+2061546,male,group E,free/reduced,completed
+2061547,female,group A,standard,completed
+2061548,male,group C,standard,completed
+2061549,female,group C,free/reduced,none
+2061550,male,group C,standard,none
+2061551,male,group C,free/reduced,none
+2061552,male,group B,free/reduced,completed
+2061553,female,group B,standard,none
+2061554,male,group D,free/reduced,none
+2061555,male,group E,standard,none
+2061556,female,group C,free/reduced,none
+2061557,female,group C,standard,completed
+2061558,male,group C,free/reduced,none
+2061559,female,group B,free/reduced,none
+2061560,male,group D,standard,none
+2061561,female,group D,standard,completed
+2061562,female,group C,standard,none
+2061563,male,group C,standard,completed
+2061564,female,group D,free/reduced,completed
+2061565,male,group B,free/reduced,none
+2061566,male,group B,standard,none
+2061567,female,group E,free/reduced,completed
+2061568,female,group D,free/reduced,completed
+2061569,male,group B,free/reduced,none
+2061570,male,group D,free/reduced,none
+2061571,male,group B,standard,completed
+2061572,male,group A,standard,none
+2061573,female,group C,standard,none
+2061574,female,group C,free/reduced,completed
+2061575,female,group E,standard,none
+2061576,male,group A,free/reduced,completed
+2061577,male,group A,standard,completed
+2061578,female,group B,standard,none
+2061579,female,group B,free/reduced,completed
+2061580,female,group D,standard,none
+2061581,female,group D,standard,none
+2061582,female,group E,standard,none
+2061583,female,group D,free/reduced,none
+2061584,female,group D,standard,completed
+2061585,female,group D,standard,none
+2061586,female,group C,standard,none
+2061587,female,group A,standard,none
+2061588,female,group C,free/reduced,none
+2061589,female,group C,standard,none
+2061590,female,group A,standard,none
+2061591,male,group C,free/reduced,none
+2061592,male,group A,standard,none
+2061593,male,group E,standard,none
+2061594,female,group E,standard,none
+2061595,female,group C,standard,completed
+2061596,female,group C,standard,completed
+2061597,male,group B,free/reduced,none
+2061598,male,group A,standard,none
+2061599,female,group D,standard,none
+2061600,female,group D,standard,none
+2061601,female,group D,standard,none
+2061602,female,group C,standard,none
+2061603,female,group E,standard,none
+2061604,male,group D,free/reduced,none
+2061605,male,group D,free/reduced,completed
+2061606,male,group C,standard,none
+2061607,female,group C,standard,none
+2061608,female,group C,free/reduced,none
+2061609,female,group E,standard,none
+2061610,female,group B,standard,none
+2061611,male,group D,free/reduced,completed
+2061612,female,group C,standard,none
+2061613,male,group C,standard,completed
+2061614,female,group C,standard,none
+2061615,female,group A,standard,none
+2061616,female,group C,standard,none
+2061617,female,group E,standard,none
+2061618,male,group D,standard,none
+2061619,male,group D,standard,none
+2061620,male,group C,free/reduced,completed
+2061621,female,group C,free/reduced,none
+2061622,male,group B,free/reduced,none
+2061623,male,group C,free/reduced,completed
+2061624,male,group A,standard,completed
+2061625,female,group E,free/reduced,none
+2061626,male,group D,standard,completed
+2061627,male,group B,free/reduced,completed
+2061628,male,group D,standard,none
+2061629,male,group D,free/reduced,none
+2061630,female,group C,standard,completed
+2061631,male,group D,standard,none
+2061632,male,group B,standard,none
+2061633,female,group B,standard,completed
+2061634,female,group C,standard,none
+2061635,male,group D,standard,none
+2061636,male,group A,standard,none
+2061637,female,group B,free/reduced,completed
+2061638,female,group D,standard,completed
+2061639,male,group E,standard,none
+2061640,female,group D,standard,none
+2061641,male,group D,standard,none
+2061642,female,group D,free/reduced,completed
+2061643,female,group B,free/reduced,none
+2061644,female,group E,standard,completed
+2061645,male,group B,standard,none
+2061646,female,group B,standard,completed
+2061647,female,group D,standard,none
+2061648,female,group E,free/reduced,none
+2061649,female,group B,standard,none
+2061650,female,group D,standard,completed
+2061651,male,group C,free/reduced,completed
+2061652,female,group A,standard,completed
+2061653,female,group D,standard,completed
+2061654,female,group A,standard,completed
+2061655,female,group B,standard,none
+2061656,female,group B,standard,none
+2061657,male,group C,free/reduced,none
+2061658,male,group D,standard,none
+2061659,female,group D,free/reduced,none
+2061660,male,group D,standard,none
+2061661,male,group C,free/reduced,none
+2061662,male,group C,standard,none
+2061663,female,group D,free/reduced,none
+2061664,female,group C,standard,none
+2061665,male,group D,standard,none
+2061666,female,group C,free/reduced,completed
+2061667,female,group C,free/reduced,completed
+2061668,female,group B,free/reduced,none
+2061669,male,group C,standard,none
+2061670,male,group D,standard,completed
+2061671,female,group C,free/reduced,none
+2061672,male,group D,free/reduced,none
+2061673,female,group C,standard,none
+2061674,female,group C,standard,completed
+2061675,female,group D,standard,completed
+2061676,female,group B,standard,completed
+2061677,female,group E,standard,completed
+2061678,female,group C,standard,completed
+2061679,male,group D,free/reduced,none
+2061680,male,group D,free/reduced,none
+2061681,female,group D,standard,none
+2061682,male,group B,standard,none
+2061683,male,group B,standard,none
+2061684,female,group C,free/reduced,completed
+2061685,male,group B,standard,completed
+2061686,female,group E,standard,completed
+2061687,male,group E,standard,completed
+2061688,male,group D,free/reduced,none
+2061689,male,group A,free/reduced,none
+2061690,male,group E,free/reduced,none
+2061691,female,group C,standard,none
+2061692,female,group E,free/reduced,none
+2061693,female,group C,free/reduced,completed
+2061694,female,group D,standard,none
+2061695,female,group C,standard,none
+2061696,female,group D,free/reduced,none
+2061697,female,group C,standard,completed
+2061698,female,group A,standard,none
+2061699,female,group D,standard,completed
+2061700,male,group C,free/reduced,none
+2061701,female,group E,standard,completed
+2061702,female,group B,standard,none
+2061703,male,group A,standard,completed
+2061704,female,group D,standard,none
+2061705,female,group B,free/reduced,completed
+2061706,male,group A,free/reduced,none
+2061707,male,group D,standard,none
+2061708,male,group C,standard,none
+2061709,male,group D,standard,none
+2061710,female,group D,free/reduced,completed
+2061711,male,group C,standard,completed
+2061712,female,group E,standard,completed
+2061713,female,group D,standard,none
+2061714,male,group D,standard,none
+2061715,female,group B,standard,completed
+2061716,female,group B,free/reduced,completed
+2061717,male,group C,standard,completed
+2061718,female,group C,standard,completed
+2061719,female,group C,standard,none
+2061720,male,group E,free/reduced,completed
+2061721,female,group C,free/reduced,none
+2061722,male,group D,free/reduced,completed
+2061723,female,group B,free/reduced,completed
+2061724,male,group C,standard,none
+2061725,male,group B,standard,none
+2061726,male,group E,standard,completed
+2061727,female,group E,standard,completed
+2061728,male,group E,standard,completed
+2061729,female,group D,free/reduced,none
+2061730,male,group C,standard,none
+2061731,female,group B,free/reduced,completed
+2061732,male,group A,free/reduced,none
+2061733,female,group C,standard,completed
+2061734,male,group D,standard,none
+2061735,female,group E,free/reduced,none
+2061736,male,group C,standard,none
+2061737,male,group C,standard,none
+2061738,female,group B,free/reduced,completed
+2061739,male,group D,standard,none
+2061740,male,group C,free/reduced,none
+2061741,male,group D,standard,none
+2061742,female,group A,free/reduced,none
+2061743,female,group C,standard,none
+2061744,female,group C,standard,completed
+2061745,male,group B,free/reduced,none
+2061746,male,group D,standard,none
+2061747,male,group D,standard,none
+2061748,male,group C,standard,none
+2061749,female,group C,free/reduced,none
+2061750,male,group B,standard,completed
+2061751,male,group D,standard,completed
+2061752,male,group E,standard,none
+2061753,male,group C,free/reduced,completed
+2061754,female,group C,standard,completed
+2061755,male,group C,free/reduced,none
+2061756,female,group E,standard,none
+2061757,male,group D,standard,none
+2061758,male,group E,free/reduced,completed
+2061759,female,group D,free/reduced,completed
+2061760,male,group B,standard,completed
+2061761,female,group C,free/reduced,none
+2061762,female,group D,standard,none
+2061763,male,group D,standard,completed
+2061764,female,group B,standard,none
+2061765,male,group D,standard,none
+2061766,female,group B,standard,none
+2061767,female,group C,standard,completed
+2061768,male,group B,standard,completed
+2061769,female,group D,standard,none
+2061770,male,group A,free/reduced,none
+2061771,male,group B,standard,none
+2061772,male,group D,standard,none
+2061773,female,group B,free/reduced,completed
+2061774,female,group C,free/reduced,none
+2061775,male,group B,standard,none
+2061776,female,group B,free/reduced,none
+2061777,female,group B,standard,none
+2061778,female,group C,free/reduced,none
+2061779,female,group A,standard,completed
+2061780,male,group E,standard,completed
+2061781,female,group D,free/reduced,none
+2061782,female,group B,standard,none
+2061783,female,group B,free/reduced,completed
+2061784,female,group C,standard,completed
+2061785,male,group C,standard,completed
+2061786,female,group B,standard,completed
+2061787,female,group E,free/reduced,none
+2061788,female,group B,standard,none
+2061789,male,group C,free/reduced,none
+2061790,female,group C,free/reduced,none
+2061791,female,group B,standard,none
+2061792,female,group D,free/reduced,none
+2061793,male,group D,free/reduced,none
+2061794,male,group E,standard,completed
+2061795,female,group B,standard,none
+2061796,female,group E,free/reduced,completed
+2061797,male,group D,standard,none
+2061798,female,group E,free/reduced,none
+2061799,male,group E,standard,none
+2061800,female,group C,standard,none
+2061801,male,group C,standard,completed
+2061802,male,group C,standard,completed
+2061803,female,group E,standard,none
+2061804,female,group B,standard,none
+2061805,female,group C,standard,none
+2061806,male,group A,free/reduced,none
+2061807,female,group D,free/reduced,none
+2061808,female,group E,free/reduced,none
+2061809,male,group C,standard,none
+2061810,male,group B,standard,none
+2061811,male,group A,standard,none
+2061812,male,group A,free/reduced,none
+2061813,female,group C,standard,completed
+2061814,male,group E,standard,completed
+2061815,female,group C,standard,none
+2061816,male,group B,standard,completed
+2061817,female,group A,standard,none
+2061818,male,group D,free/reduced,completed
+2061819,female,group B,free/reduced,none
+2061820,female,group C,standard,none
+2061821,female,group A,standard,completed
+2061822,female,group D,free/reduced,none
+2061823,male,group E,free/reduced,completed
+2061824,female,group B,free/reduced,none
+2061825,female,group C,free/reduced,none
+2061826,male,group C,standard,none
+2061827,female,group C,free/reduced,completed
+2061828,female,group C,standard,none
+2061829,female,group D,free/reduced,completed
+2061830,male,group B,standard,none
+2061831,female,group A,free/reduced,none
+2061832,female,group C,free/reduced,completed
+2061833,male,group A,standard,none
+2061834,female,group B,standard,completed
+2061835,male,group B,standard,none
+2061836,female,group C,standard,completed
+2061837,male,group E,standard,none
+2061838,female,group A,standard,completed
+2061839,male,group B,free/reduced,completed
+2061840,female,group C,standard,none
+2061841,female,group D,free/reduced,none
+2061842,male,group C,standard,none
+2061843,female,group B,free/reduced,completed
+2061844,male,group B,free/reduced,completed
+2061845,female,group D,free/reduced,completed
+2061846,male,group E,standard,none
+2061847,male,group C,standard,completed
+2061848,male,group D,standard,none
+2061849,female,group C,standard,none
+2061850,male,group D,standard,none
+2061851,male,group C,standard,none
+2061852,female,group A,standard,none
+2061853,female,group E,standard,none
+2061854,male,group E,standard,none
+2061855,male,group C,standard,none
+2061856,female,group B,standard,none
+2061857,male,group B,free/reduced,none
+2061858,female,group C,standard,none
+2061859,male,group B,standard,completed
+2061860,male,group C,free/reduced,none
+2061861,female,group C,standard,none
+2061862,female,group E,free/reduced,none
+2061863,male,group D,free/reduced,completed
+2061864,female,group C,standard,completed
+2061865,male,group C,standard,none
+2061866,male,group D,standard,completed
+2061867,male,group C,free/reduced,none
+2061868,male,group B,standard,none
+2061869,male,group E,free/reduced,completed
+2061870,male,group C,free/reduced,none
+2061871,male,group B,standard,none
+2061872,female,group C,standard,completed
+2061873,male,group B,standard,completed
+2061874,male,group E,free/reduced,none
+2061875,female,group C,free/reduced,none
+2061876,male,group C,free/reduced,none
+2061877,male,group D,standard,none
+2061878,male,group C,standard,none
+2061879,female,group D,standard,none
+2061880,female,group D,standard,none
+2061881,male,group C,standard,completed
+2061882,female,group E,standard,completed
+2061883,female,group B,free/reduced,none
+2061884,male,group D,free/reduced,none
+2061885,female,group E,standard,none
+2061886,female,group C,standard,completed
+2061887,female,group E,standard,completed
+2061888,male,group C,free/reduced,none
+2061889,female,group D,free/reduced,none
+2061890,male,group D,free/reduced,none
+2061891,female,group E,standard,completed
+2061892,female,group E,standard,none
+2061893,female,group A,free/reduced,none
+2061894,male,group D,standard,completed
+2061895,female,group E,standard,none
+2061896,female,group E,free/reduced,none
+2061897,male,group B,free/reduced,none
+2061898,female,group B,free/reduced,completed
+2061899,male,group D,standard,completed
+2061900,female,group D,standard,completed
+2061901,male,group D,standard,none
+2061902,female,group C,standard,none
+2061903,female,group A,free/reduced,completed
+2061904,female,group D,free/reduced,completed
+2061905,female,group D,free/reduced,none
+2061906,male,group D,standard,none
+2061907,male,group B,standard,none
+2061908,female,group D,standard,completed
+2061909,female,group C,free/reduced,none
+2061910,male,group E,standard,completed
+2061911,male,group D,free/reduced,none
+2061912,female,group A,standard,none
+2061913,female,group C,standard,completed
+2061914,female,group C,free/reduced,completed
+2061915,female,group B,free/reduced,none
+2061916,female,group E,standard,none
+2061917,male,group E,standard,completed
+2061918,female,group C,standard,none
+2061919,female,group C,standard,completed
+2061920,male,group B,standard,completed
+2061921,male,group D,free/reduced,none
+2061922,female,group C,free/reduced,none
+2061923,male,group D,standard,none
+2061924,female,group B,free/reduced,none
+2061925,male,group D,free/reduced,none
+2061926,male,group E,standard,completed
+2061927,male,group E,free/reduced,none
+2061928,female,group D,free/reduced,completed
+2061929,male,group E,free/reduced,completed
+2061930,female,group C,free/reduced,none
+2061931,male,group C,free/reduced,completed
+2061932,male,group D,free/reduced,none
+2061933,male,group D,free/reduced,completed
+2061934,male,group C,free/reduced,completed
+2061935,male,group C,standard,completed
+2061936,male,group D,free/reduced,none
+2061937,male,group A,standard,none
+2061938,female,group E,free/reduced,none
+2061939,male,group D,standard,completed
+2061940,male,group D,standard,completed
+2061941,male,group C,free/reduced,completed
+2061942,female,group D,standard,none
+2061943,male,group C,standard,none
+2061944,male,group A,free/reduced,completed
+2061945,female,group B,standard,none
+2061946,female,group C,standard,none
+2061947,male,group B,standard,none
+2061948,female,group D,free/reduced,none
+2061949,male,group B,free/reduced,completed
+2061950,female,group E,free/reduced,completed
+2061951,male,group E,standard,none
+2061952,female,group D,standard,completed
+2061953,female,group E,free/reduced,none
+2061954,male,group C,standard,completed
+2061955,female,group C,standard,none
+2061956,male,group E,standard,none
+2061957,male,group C,standard,none
+2061958,female,group D,standard,none
+2061959,female,group D,standard,none
+2061960,male,group C,standard,none
+2061961,female,group A,standard,none
+2061962,female,group D,free/reduced,none
+2061963,female,group E,standard,none
+2061964,female,group C,free/reduced,completed
+2061965,male,group D,standard,none
+2061966,female,group D,standard,none
+2061967,male,group A,standard,completed
+2061968,male,group C,standard,none
+2061969,female,group E,standard,none
+2061970,female,group B,standard,none
+2061971,female,group D,standard,none
+2061972,male,group C,standard,completed
+2061973,female,group A,free/reduced,completed
+2061974,female,group D,free/reduced,none
+2061975,female,group A,standard,none
+2061976,female,group C,standard,completed
+2061977,male,group B,free/reduced,completed
+2061978,male,group C,standard,none
+2061979,male,group D,standard,completed
+2061980,female,group C,standard,none
+2061981,female,group B,free/reduced,none
+2061982,male,group D,standard,none
+2061983,male,group B,standard,completed
+2061984,female,group A,standard,completed
+2061985,female,group C,standard,none
+2061986,male,group A,standard,none
+2061987,female,group C,standard,none
+2061988,male,group E,standard,completed
+2061989,female,group A,free/reduced,none
+2061990,female,group D,free/reduced,completed
+2061991,male,group E,free/reduced,completed
+2061992,female,group B,standard,completed
+2061993,female,group D,free/reduced,none
+2061994,female,group D,free/reduced,none
+2061995,male,group A,standard,none
+2061996,female,group E,standard,completed
+2061997,male,group C,free/reduced,none
+2061998,female,group C,free/reduced,completed
+2061999,female,group D,standard,completed
+2062000,female,group D,free/reduced,none
